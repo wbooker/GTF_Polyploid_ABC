@@ -61,7 +61,7 @@ msnsam[3]: https://github.com/rossibarra/msnsam
 This script is used to simulate sequence data for a specific model of polyploidization mode and chromosomal inheritance pattern. On the command line, running this would be as follows:
 
 ```
-./run_ABC_polyploid_v3.py allo disomic migA F bpFile_CMW_MW.txt 25000 1 40 F
+./run_ABC_polyploid_v3.py allo disomic migA F bpFile_EC_AE.txt 25000 1 40 F
 ```
 
 The script takes 9 arguments:
