@@ -155,7 +155,7 @@ To compare to the prior, import the output.txt files in each folder using a for 
 
 ## Important information
 
-It's important to note that prior values are set with the assumption that the effective population size multiplier is 100,000. That means, for instance, if we set our upper bound of n1 to 5, that means it is actually 500,000. To change this, you will need to edit the n0 value at the top of the priorgen python script as well as in the convert_to_ms_from_fasta.R file. Furthermore, this affects interpretation of Tsplit and Twgd times, which are multiplied by 4 * n0. So, if you set the upper limit of tau to 1, that means it is actually 400,000 generations. 
+It's important to note that prior values are set with the assumption that the effective population size multiplier is 100,000. That means, for instance, if we set our upper bound of n1 to 5, that means it is actually 500,000. To change this, you will need to edit the n0 value at the top of the priorgen python script as well as in the convert_to_ms_from_fasta.R file. Furthermore, this affects interpretation of Tsplit and Twgd times, which are multiplied by 4 * n0. So, if you set the upper limit of tau to 1, that means it is actually 400,000 generations (since our clock rate is in substitutions/yr it can be approximated as 400,000 ybp. 
 
 The bpFile has 5 lines. The first is a comment line which you can change to anything you like. The second and third rows are the sampled number of individuals from A and B respectively. The third and fourth rows are information on theta and rho, which are 4 * n0 * clockRate
 
