@@ -14,7 +14,7 @@ The following summary statistics are calculated (modified from https://github.co
 | __sf XY__               |  number of fixed differences between species X and Y / locus length         |
 | __sx X__                |  number of exclusively polymorphic positions in species X / locus length    |
 | __ss XY__               |  number of shared biallelic positions between species X and Y/ locus length |
-| __successive ss__       |  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX |
+| __successive ss__       |  maximum number of successive shared biallelic positions for a locus |
 | __pi X__                |  Tajima’s Theta within species X                                            |
 | __theta X__             |  Watterson’s Theta witin species X                                          |
 | __pearson_r_pi XY__    |  correlation’s coefficient for pi over orthologs between X and Y            |
@@ -31,10 +31,10 @@ The following summary statistics are calculated (modified from https://github.co
 | __pearson_r_divAB_FST__ |  correlation’s coefficient for divAB and FST        |
 | __pearson_r_netDivAB_FST__    |  correlation’s coefficient for newDivAB and FST          |
 | __pearson_r_theta XY__ |  correlation’s coefficient for theta over orthologs between X and Y    |
-| __ss_sf__ |  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    |
-| __ss_noSf__ |  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    |
-| __noSs_sf__ |  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    |
-| __noSs_noSf__ |  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    |
+| __ss_sf__ |  proportion of loci with both shared biallelic posistions and shared fixed differences   |
+| __ss_noSf__ |  proportion of loci with shared biallelic posistions but no shared fixed differences   |
+| __noSs_sf__ |  proportion of loci with no shared biallelic posistions but with shared fixed differences    |
+| __noSs_noSf__ |  proportion of loci with neither shared biallelic posistions or shared fixed differences |
 
 
   
