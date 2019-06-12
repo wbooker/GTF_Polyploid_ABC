@@ -5,6 +5,41 @@ This repository contains scripts and information on how to run an ABC analysis t
 
 This analysis was modified from methods outlined in Roux and Pannel (2015)[1] and Leroy et al. (2017)[2]. This readme is also modified from examples laid out in their repositories: https://github.com/popgenomics/ABC_WGD, https://github.com/ThibaultLeroyFr/WhiteOaksABC
 
+## Summary Statistics
+The following summary statistics are calculated (modified from https://github.com/popgenomics/ABC_WGD)
+
+| Statistics         | Description                                                                 |
+|:-------------------|:----------------------------------------------------------------------------|
+| __bialsites__          |  number of SNPs in the alignment                                            |
+| __sf XY__               |  number of fixed differences between species X and Y / locus length         |
+| __sx X__                |  number of exclusively polymorphic positions in species X / locus length    |
+| __ss XY__               |  number of shared biallelic positions between species X and Y/ locus length |
+| __successive ss__       |  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX |
+| __pi X__                |  Tajima’s Theta within species X                                            |
+| __theta X__             |  Watterson’s Theta witin species X                                          |
+| __pearson_r_pi XY__    |  correlation’s coefficient for pi over orthologs between X and Y            |
+| __pearson_r_theta XY__ |  correlation’s coefficient for theta over orthologs between X and Y         |
+| __Dtaj X__              |  Tajima’s D for species X                                                   |
+| __div XY__              |  raw divergence Dxy measured between X and Y                                |
+| __netdiv XY__           |  net divergence Da measured between X and Y                                 |
+| __minDiv XY__           |  smallest divergence measured between one individual from X and one from Y  |
+| __maxDiv XY__           |  highest divergence measured between one individual from X and one from Y   |
+| __Gmin XY__             |  minimum divergence between one sequence from X and one from Y __minDivXY__ divided by the average __divXY__                                                             |
+| __FST XY__             |  FST between X and Y compute as 1-(pi_X + pi_Z) / (2 * pi_XY)                  |
+| __D3a__             | absolute value of the D3 statistic with the diploid and two polyploid subgenomes  |
+| __pearson_r_divAB_netDivAB__ |  correlation’s coefficient for divAB and netDivAB            |
+| __pearson_r_divAB_FST__ |  correlation’s coefficient for divAB and FST        |
+| __pearson_r_netDivAB_FST__    |  correlation’s coefficient for newDivAB and FST          |
+| __pearson_r_theta XY__ |  correlation’s coefficient for theta over orthologs between X and Y    |
+| __ss_sf__ |  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    |
+| __ss_noSf__ |  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    |
+| __noSs_sf__ |  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    |
+| __noSs_noSf__ |  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    |
+
+
+  
+  
+
 ## Software Requirements:
 
 Python
