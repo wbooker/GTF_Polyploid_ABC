@@ -11,26 +11,29 @@ The following summary statistics are calculated (modified from https://github.co
 | Statistics         | Description                                                                 |
 |:-------------------|:----------------------------------------------------------------------------|
 | __bialsites__          |  number of SNPs in the alignment                                            |
-| __sf XY__               |  number of fixed differences between species X and Y / locus length         |
-| __sx X__                |  number of exclusively polymorphic positions in species X / locus length    |
-| __ss XY__               |  number of shared biallelic positions between species X and Y/ locus length |
+| __sf AB__               |  number of fixed differences between species A and B / locus length         |
+| __sx A__                |  number of exclusively polymorphic positions in species A / locus length    |
+| __sx B__                |  number of exclusively polymorphic positions in species B / locus length    |
+| __ss AB__               |  number of shared biallelic positions between species A and B/ locus length |
 | __successive ss__       |  maximum number of successive shared biallelic positions for a locus |
-| __pi X__                |  Tajima’s Theta within species X                                            |
-| __theta X__             |  Watterson’s Theta within species X                                          |
-| __pearson_r_pi XY__    |  correlation’s coefficient for pi over orthologs between X and Y            |
-| __pearson_r_theta XY__ |  correlation’s coefficient for theta over orthologs between X and Y         |
-| __Dtaj X__              |  Tajima’s D for species X                                                   |
-| __div XY__              |  raw divergence Dxy measured between X and Y                                |
-| __netdiv XY__           |  net divergence Da measured between X and Y                                 |
-| __minDiv XY__           |  smallest divergence measured between one individual from X and one from Y  |
-| __maxDiv XY__           |  highest divergence measured between one individual from X and one from Y   |
-| __Gmin XY__             |  minimum divergence between one sequence from X and one from Y __minDivXY__ divided by the average __divXY__                                                             |
-| __FST XY__             |  FST between X and Y compute as 1-(pi_X + pi_Z) / (2 * pi_XY)                  |
+| __pi A__                |  Tajima’s Theta within species A                                            |
+| __pi B__                |  Tajima’s Theta within species B                                            |
+| __theta A__             |  Watterson’s Theta within species A                                          |
+| __theta B__             |  Watterson’s Theta within species A                                          |
+| __pearson_r_pi_AB__    |  correlation’s coefficient for pi over orthologs between A and B            |
+| __pearson_r_theta_AB__ |  correlation’s coefficient for theta over orthologs between A and B         |
+| __Dtaj A__              |  Tajima’s D for species A                                                   |
+| __Dtaj B__              |  Tajima’s D for species B                                                   |
+| __divAB__              |  raw divergence Dxy measured between A and B                                |
+| __netdivAB__           |  net divergence Da measured between A and B                                 |
+| __minDivAB__           |  smallest divergence measured between one individual from A and one from B  |
+| __maxDivAB__           |  highest divergence measured between one individual from A and one from B   |
+| __GminAB__             |  minimum divergence between one sequence from A and one from B __minDivAB__ divided by the average __divAB__                                                             |
+| __FST__             |  FST between A and B compute as 1-(pi_A + pi_B) / (2 * pi_AB)                  |
 | __D3a__             | absolute value of the D3 statistic with the diploid and two polyploid subgenomes  |
 | __pearson_r_divAB_netDivAB__ |  correlation’s coefficient for divAB and netDivAB            |
 | __pearson_r_divAB_FST__ |  correlation’s coefficient for divAB and FST        |
 | __pearson_r_netDivAB_FST__    |  correlation’s coefficient for newDivAB and FST          |
-| __pearson_r_theta XY__ |  correlation’s coefficient for theta over orthologs between X and Y    |
 | __ss_sf__ |  proportion of loci with both shared biallelic posistions and shared fixed differences   |
 | __ss_noSf__ |  proportion of loci with shared biallelic posistions but no shared fixed differences   |
 | __noSs_sf__ |  proportion of loci with no shared biallelic posistions but with shared fixed differences    |
