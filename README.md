@@ -43,8 +43,8 @@ The following summary statistics are calculated (modified from https://github.co
 ## Software Requirements:
 
 Python
-  - pypy package
-  - numpy package
+  - pypy
+  - numpy
   
 R
   - seqinr
