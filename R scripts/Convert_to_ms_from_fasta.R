@@ -16,6 +16,7 @@ popBMax<-  paste(c(popB, "_MAX"), collapse = "")
 nucleotides <- c("a","c","t","g")
 clockRate_avg <- 0.000000000876
 clockRate_sd <- 0.0000000001
+n0 = 100000
 numLoci <- 50 #### Number of loci to include 
 popSNP <- NULL
 lociInfoMat <- c()
@@ -36,7 +37,6 @@ for(locus in files){
     outInd <- sample(which(names(alignment) %in% popsList[popsList[,2]%in%outgroup,1]), 1)
 
     locusLength <- as.numeric(length(as.vector(alignment[[1]])))
-    #bpFile <- cbind(bpFile, c(locusLength,length(popAList), length(popBList)/2,(4*100000*locusLength*clockRates[which(clockRates[,1]==locus),2]),(4*100000*locusLength*clockRates[which(clockRates[,1]==locus),2])))
     lociInfoMat <- rbind(lociInfoMat, c(locus, locusLength, length(popAList), length(popBList)/2))
     ind_Gmin <- NULL
     ind_Gmax <- NULL
@@ -140,7 +140,7 @@ for(locus in files){
       }
       if(!is.null(nrow(ms_alignment)) | !is.null(ncol(ms_alignment)) & locusLength >= 500){
         includedLoci = includedLoci + 1 
-        clock <- strtrim(as.character(4*100000*locusLength*rnorm(1,clockRate_avg, clockRate_sd)),5)
+        clock <- strtrim(as.character(4*n0*locusLength*rnorm(1,clockRate_avg, clockRate_sd)),5)
         bpFile <- cbind(bpFile, c(locusLength,length(popAList), length(popBList)/2,clock,clock))
         ref_alignment <- outInd_seq_ms
         msMat <- rbind(msMat, "// 	54	1.17074	1.17074	1737	28	13	13	0.06531	8.47518	0.06531	8.47518	0.00000	0.00000	0.13154	1.63965	1.63965	60.63307	60.63307	0.18660	0.18660	1.49007	0.34644	0.34644	2.0751", paste(c("segsites: ",length(ref_alignment)), collapse = ""),"positions: ")

@@ -8,6 +8,7 @@ from random import shuffle
 from math import log
 import sys
 n1, n2, nA, tau, M, exp, alpha, shape1, shape2 = [], [], [], [], [], [], [], [], []
+n0 = 100000
 help="\n\t\033[32mExternal required library: numpy \033[1;m(sudo apt-get install python-numpy)\n\
 \tpriorgen.py generates prior distributions for multiple multilocus simulations under 27 different models of speciation with/withou interploidal gene-flow. The output can be used from the stdout by ms (Hudson 2002), msnsam (Ross-Ibarra 2008) and msms (Ewing and Hermisson 2010) using the 'tbs' feature.\n\
 \tIt requires one input file containing six lines: \n\
@@ -154,7 +155,7 @@ for i in range(nreps):
 		Twgd=uniform(min(tau), Tsplit)
 	if(model=="polyP"):
 		Twgd=Tsplit
-	growth=-log(2/(100000*n2prior))*1/Twgd
+	growth=-log(2/(n0*n2prior))*1/Twgd
 	alphaprior=uniform(alpha[0], alpha[1])  #le Alpha de la recombinaison: Si=0, alors disomy. Si=1 alors tetrasomy
 	recomb=inheritance(nlocus, alphaprior)
 	recombGenomic=recomb["values"]
