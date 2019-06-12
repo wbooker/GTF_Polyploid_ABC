@@ -30,7 +30,6 @@ The following summary statistics are calculated (modified from https://github.co
 | __maxDivAB__           |  highest divergence measured between one individual from A and one from B   |
 | __GminAB__             |  minimum divergence between one sequence from A and one from B (__minDivAB__ divided by the average __divAB__)                                                             |
 | __GmaxAB__             |  maximum divergence between one sequence from A and one from B (__maxDivAB__ divided by the average __divAB__)                                                             |
-
 | __FST__             |  FST between A and B compute as 1-(pi_A + pi_B) / (2 * pi_AB)                  |
 | __D3a__             | absolute value of the D3 statistic with the diploid and two polyploid subgenomes  |
 | __pearson_r_divAB_netDivAB__ |  correlation’s coefficient for divAB and netDivAB            |
