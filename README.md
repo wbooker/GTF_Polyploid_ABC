@@ -153,6 +153,12 @@ hist(postSum$Tsplit)
 ```
 To compare to the prior, import the output.txt files in each folder using a for loop for that model and generate similar histograms.
 
+## Important information
+
+It's important to note that prior values are set with the assumption that the effective population size multiplier is 100,000. That means, for instance, if we set our upper bound of n1 to 5, that means it is actually 500,000. To change this, you will need to edit the n0 value at the top of the priorgen python script as well as in the convert_to_ms_from_fasta.R file. Furthermore, this affects interpretation of Tsplit and Twgd times, which are multiplied by 4 * n0.
+
+The bpFile has 5 lines. The first is a comment line which you can change to anything you like. The second and third rows are the sampled number of individuals from A and B respectively. The third and fourth rows are information on theta and rho, which are 4* n0 * clockRate
+
 ## Final Notes
 
 I have tried to make this type of analysis as user friendly as possible given the number of different steps that need to be taken and the amount of customization each dataset requires. However, I expect individual analyses will take some tweaking to work properly. If you have any questions, feel free to email me at wbooker14@gmail.com and I will do my best to respond to you in a timely manner. 
