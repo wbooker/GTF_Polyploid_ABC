@@ -16,7 +16,7 @@ The following summary statistics are calculated (modified from https://github.co
 | __ss XY__               |  number of shared biallelic positions between species X and Y/ locus length |
 | __successive ss__       |  maximum number of successive shared biallelic positions for a locus |
 | __pi X__                |  Tajima’s Theta within species X                                            |
-| __theta X__             |  Watterson’s Theta witin species X                                          |
+| __theta X__             |  Watterson’s Theta within species X                                          |
 | __pearson_r_pi XY__    |  correlation’s coefficient for pi over orthologs between X and Y            |
 | __pearson_r_theta XY__ |  correlation’s coefficient for theta over orthologs between X and Y         |
 | __Dtaj X__              |  Tajima’s D for species X                                                   |
