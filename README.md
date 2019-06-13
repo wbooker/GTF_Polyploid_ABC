@@ -1,4 +1,4 @@
-# GTF_Polyploid_ABC
+# ABC analysis of polyploid specation used for gray treefrogs *Hyla versicolor* 
 Polyploidization and inheritance mode model estimation using Approximate Bayesian Computation
 
 This repository contains scripts and information on how to run an ABC analysis to estimate the mode of polyploid formation and the pattern of chromosomal inheritance using sequence data. As of now, this analysis only works for tetraploids. 
