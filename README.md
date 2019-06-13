@@ -122,9 +122,9 @@ Additionally, you will need a population input file in csv format that contains 
 
 This script will automatically generate your bpfile as well as generate the ms file to calculate the observed data along with a table detailing which loci were used.
 
-To generate the observed sumstat file, make a folder in the directory with the bpfile and ms file titled "Obs" and run the following code: 
+To generate the observed sumstat file, make a folder in the directory with the bpfile and ms file titled "Obs" (in this example) and run the following code: 
 ```
-cat EC_AE_msFile.txt | ./mscalc_wgd_v3.py Old bpFile_EC_AE.txt
+cat EC_AE_msFile.txt | ./mscalc_wgd_v3.py Obs bpFile_EC_AE.txt
 ```
 That will generate the ABCjsfs.txt file for your data and the ABCstat.txt file. I recommend changing the name so you can keep track of these files.
 
