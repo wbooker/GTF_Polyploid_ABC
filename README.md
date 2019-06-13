@@ -114,7 +114,7 @@ After running each simulation, mscalc will calculate the values for each summary
 
 ## Generating the observed data
 
-To generate statistics for the observed data, it is necessary to first convert your sequences into the ms format that can be read by mscalc_wgd_v3.py. This ensures all summary statistics are calculated in the same way as the simulated data and in the same format. 
+To generate statistics for the observed data, it is necessary to first convert your sequences into the ms format that can be read by mscalc_wgd_v3.py. This ensures all summary statistics are calculated in the same way as the simulated data and in the same format. Do not use summary statistics calculated by R packages or other software as their way of handling missing data or other aspects of genetic data may not be the same. Furthermore, it is just easier to convert to ms format.
 
 To convert to the ms format, run the script convert_to_ms_from_fasta.R. The script only works for sequences in the fasta format, and it would be easiest to convert your sequence files to fasta. However, it should be easily modifiable if your data are in a different format. 
 
