@@ -144,12 +144,13 @@ Finally, it will also automatically generate posterior distributions for the top
 setwd("/gpfs/research/scratch/wwb15/ABC_WGD/50Loci/Exponential/EC_AE/")
 postSum = NULL
 nPostReps <- 10
-chosenModel <- auto_heterosomic_migAB_1W
+chosenModel <- "allo_disomic_migAB_1W"
 for(i in 1:nPostReps){
-  postSum <- rbind(read.table(paste(c("Posterior_",chosenModel,"_",i), collapse = "")))
+  postSum <- rbind(read.table(paste(c("Posterior_EC_AE",chosenModel,i), collapse = "")))
 }
-colnames(postSum) <- paste(c("Posterior_",chosenModel,"_Header"), collapse = "")
-hist(postSum$Tsplit)
+colnames(postSum) <- colnames(read.table(paste(c("Posterior_EC_AE",chosenModel,"_Header"), collapse = ""), header = T))
+hist(postSum$Twgd)
+
 ```
 To compare to the prior, import the output.txt files in each folder using a for loop for that model and generate similar histograms.
 
