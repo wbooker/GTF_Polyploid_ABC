@@ -98,7 +98,7 @@ Within the script, it is also necessary to set the bounds for the prior distribu
 - nA: effective population size of the ancestral populations (used for both the ancestral pop. size prior to Tsplit and for the tetraploid prior to Twgd. 
 - tau: bounds of the possible Tsplit and Twgd times
 - TauDist: Use a uniform or exponential distribution for Tau. If exponential, the lower limit for Twgd is the first argument, and the mean of the distribution is the second argument. 
-- M: number of migrants per generation
+- M: scalar for the beta distribution for migration rate 4 * n0 * m
 - shape1: prior for the first shape parameter of the beta distribution for the number of migrants
 - shape2: prior for the second shape parameter of the beta distribution for the number of migrants
 - symModel: is migration symmetric or assymetric (asym/sym)
