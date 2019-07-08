@@ -47,7 +47,7 @@ The following summary statistics are calculated (modified from https://github.co
 ## Software Requirements:
 
 Python
-  - pypy
+  - pypy (be sure to change dependency location in mscalc_wgd_v3.py)
   - numpy
   
 R
