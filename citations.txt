@@ -1,0 +1,1330 @@
+Title
+"Resolution" of diploid-tetraploid tree frogs
+"Why Polyploidy is Rarer in Animals Than in Plants" Revisited
+/C:/Users/Will Booker/Downloads/Hybridization in the Diploid-Tetraploid... Hyla chrysoscelis and Hyla versicolor.pdf
+/C:/Users/Will Booker/Downloads/Levin 1981 Mathematics, Ecology, and Ornithology.pdf
+/C:/Users/Will Booker/Downloads/price-1970-520.pdf
+/C:/Users/Will Booker/Downloads/The Logic of Animal Conflict.pdf
+/home/wbooker/Downloads/Naert and Vleminckx 2018a_Xenopus_GenomEngineer.pdf
+[Bone marrow transplantation in patients with aplastic anemia].
+[Is bone scintigraphy still required for screening metastatic bone disease?].
+0003-0031_2008_159_498_TCPDPA_2.0.CO_2.pdf
+03@C7:0 AB0BL8
+0363-6445-28.1.5.pdf
+11016905.pdf
+6-hydroxydopamine lesions in anuran amphibians: a new model system for Parkinson's disease?
+A bisexually reproducing all-triploid vertebrate.
+A checklist and key to the snakes of the Tantilla clade ( Squamata : Colubridae ), with comments on taxonomy , distribution , and conservation
+A comparative mitogenomic analysis of the potential adaptive value of Arctic charr mtDNA introgression in brook charr populations (Salvelinus fontinalis Mitchill).
+A comparative study of activity levels in larval anurans and response to the presence of different predators
+A comparison of tools for the simulation of genomic next-generation sequencing data.
+A comprehensive assessment of RNA-seq accuracy, reproducibility and information content by the Sequencing Quality Control Consortium.
+A comprehensive phylogeny of birds (Aves) using targeted next-generation DNA sequencing.
+A critical review on the use of support values in tree viewers and bioinformatics toolkits.
+A disproportionate role for mtDNA in Dobzhansky-Muller incompatibilities?
+A distributed neural network model for the distinct roles of medial and lateral HVC in zebra finch song production.
+A general polyploid model for analyzing gene segregation in outcrossing tetraploid species.
+A GIS-based Vegetation Map of the World at the Last Glacial Maximum (25,000-15,000 BP)
+A likelihood approach to estimating phylogeny from discrete morphological character data.
+A likelihood framework for estimating phylogeographic history on a continuous landscape.
+A Likelihood Ratio Test To Detect Conflicting Phylogenetic Signal
+A mathematical model for gene evolution after whole genome duplication
+A method for genome-wide genealogy estimation for thousands of samples.
+A mitochondrial DNA phylogeny of African clawed frogs: phylogeography and implications for polyploid evolution.
+A Model for Divergent, Allopatric Speciation of Polyploid Pteridophytes Resulting from Silencing of Duplicate-Gene Expression
+A New and Threatened Insular Species of Lancehead from Southeastern Brazil
+A new genus and species of lungless salamander (family Plethodontidae) from the Appalachian highlands of the south-eastern United States
+A new method for calculating evolutionary substitution rates.
+A New Polyploid Species Of Pleurodema (Anura: Leiuperidae) From Sierra De
+A New Sessile-FloweredTrillium Species from Tennessee
+A new species of Hyla from Louisiana
+A new species of Myxidium (Myxosporea: Myxidiidae), from the western chorus frog, Pseudacris triseriata triseriata, and Blanchard's cricket frog, Acris crepitans blanchardi (Hylidae), from eastern Nebraska: morphology, phylogeny, and critical comments on amphibian Myxidium taxonomy.
+A new species of small tree frog, genus Dendropsophus (Anura: Hylidae) from the eastern Amazon lowlands of Ecuador
+A new species of the Dendropsophus parviceps group from the western Amazon Basin (Amphibia: Anura: Hylidae) ANA
+A quality assurance system based on management by objectives.
+A Quantitative-Genetic Analysis of Larval Life-History Traits in Hyla Crucifer
+A quick guide to organizing computational biology projects.
+A reassessment of explanations for discordant introgressions of mitochondrial and nuclear genomes.
+A reconsideration of relationships among Japanese Trillium species based on karyology and AFLP data
+A reconsideration of the status of Hyla phaeocrypta.
+A roadmap for understanding the evolutionary significance of structural genomic variation.
+A robust methodology for assessing differential homeolog contributions to the transcriptomes of allopolyploids.
+A similarity between viral defense and gene silencing in plants.
+A spatial statistical model for landscape genetics.
+A spectrophotometric assay for trans-cinnamic acid 4-hydroxylase activity.
+A stable niche assumption-free test of ecological divergence.
+A survey of best practices for RNA-seq data analysis.
+A test of the hypothesis of an autopolyploid vs. allopolyploid origin for a tetraploid lineage: application to the genus Barbus (Cyprinidae)
+A three-sample test for introgression, Molecular Biology and Evolution
+A tutorial of BPP for species tree estimation and species delimitation
+A vertebrate reproductive system involving three ploidy levels: hybrid origin of triploids in a contact zone of diploid and tetraploid palearctic green toads (Bufo viridis subgroup).
+abc: an R package for approximate Bayesian computation (ABC)
+ABGD, Automatic Barcode Gap Discovery for primary species delimitation.
+Absence of Glaciation in Illinois during Marine Isotope Stages 3 through 5
+Accelerated decline in the Arctic sea ice cover
+Accelerated evolution of the Prdm9 speciation gene across diverse metazoan taxa.
+Accounting for genotype uncertainty in the estimation of allele frequencies in autopolyploids.
+Accumulation of transposable elements in Hox gene clusters during adaptive radiation of Anolis lizards.
+Acoustic communication in insects and anurans: common problems and diverse solutions
+Acoustic communication in the gray treefrog,Hyla versicolor: evolutionary and neurobiological implications
+Acoustic Communication in Two Groups of Closely Related Treefrogs
+Acoustic interactions among male gray treefrogs, Hyla versicolor , in a chorus setting
+Adaptation and selection.
+Adaptation at the edge of a species' range.
+Adaptation to Marginal Habitats
+Adaptation, speciation and hybrid zones.
+Adaptations of metabolism for freeze tolerance in the gray tree frog,Hyla versicolor
+Adapterama III: Quadruple-indexed, triple-enzyme RADseq libraries for about $1USD per Sample (3RAD)
+Adaptive and non-adaptive divergence in a common landscape.
+Adaptive archaic introgression of copy number variants and the discovery of previously unknown human genes.
+Adaptive changes in sexual signalling in response to urbanization.
+Adaptive dispersal strategies and the dynamics of a range expansion.
+Adaptive Genetic Variation in Growth and Development of Tadpoles of the Hybridogenetic Rana esculenta Complex
+Adaptive individual differences within single populations
+Adaptive Intrinsic Growth Rates: An Integration Across Taxa
+Adaptive Use of Information during Growth Can Explain Long-Term Effects of Early Life Experiences.
+Adaptive versus non-adaptive phenotypic plasticity and the potential for contemporary adaptation in new environments
+Adding complexity to complexity: gene family evolution in polyploids
+Additional Evidence of Sterility between Call-Types in the Hyla versicolor Complex
+Adhesion and the Toe-Pads of Treefrogs
+Admixture mapping of male nuptial colour and body shape in a recently formed hybrid population of threespine stickleback.
+Adult frogs and tadpoles have different macroevolutionary patterns across the Australian continent
+Advances in Genetics
+Advances in the study of polyploidy since Plant speciation
+Advertisement-call preferences in diploid-tetraploid treefrogs (Hyla chrysoscelis and Hyla versicolor): implications for mate choice and the evolution of communication systems.
+Age and biogeography of major clades in Liliales.
+Alisha Holloway Dissertation
+Allopolyploid Speciation in Tragopogon: Insights from Chloroplast DNA
+Altered chromatin compaction and histone methylation drive non-additive gene expression in an interspecific Arabidopsis hybrid.
+Alternative splicing and the evolution of phenotypic novelty.
+Amphibian and reptile lore of the six nations cayuga
+Amphibian chytridiomycosis outbreak dynamics are linked with host skin bacterial community structure.
+Amphibian Metamorphosis: Growth Rate, Predation Risk, and the Optimal Size at Transformation
+Amphibian phylogeography: a model for understanding historical aspects of species distributions.
+Amphibian speciation
+Amphibians and Reptiles from the Pleistocene (Illinoian) of Williston, Florida
+Amphibians crossing the Bering Land Bridge: evidence from holarctic treefrogs (Hyla, Hylidae, Anura).
+An ancient clonal lineage in the fish genus Poeciliopsis (Atheriniformes: Poeciliidae).
+An eco-physiological study of water economy in eight species of tree frogs (Hylidae).
+An Empirical Test of Bootstrapping as a Method for Assessing Confidence in Phylogenetic Analysis
+An experimental test of noise-dependent voice amplitude regulation in Cope's grey treefrog (Hyla chrysoscelis).
+Analysis of Hybrid Zones
+Analysis of Population Genomic Data from Hybrid Zones
+Anchored hybrid enrichment for massively high-throughput phylogenomics.
+Ancient divergence and recent population expansion in a leaf frog endemic to the southern Brazilian Atlantic forest
+Ancient gene duplicates in Gossypium (cotton) exhibit near-complete expression divergence.
+Animal transcription networks as highly connected, quantitative continua.
+Another new and threatened species of lancehead genus Bothrops (Serpentes, Viperidae) from Ilha dos Franceses, Southeastern Brazil.
+Ants exhibit asymmetric hybridization in a mosaic hybrid zone.
+Architecture and evolution of a minute plant genome.
+Are convergent and parallel amino acid substitutions in protein evolution more prevalent than neutral expectations?
+Are glacial refugia hotspots of speciation and cytonuclear discordances? Answers from the genomic phylogeography of Spanish common frogs.
+Are Guinea Pigs Rodents? The Importance of Adequate
+ART: a next-generation sequencing read simulator.
+Artificial Hybridization of the Gray Treefrog, Hyla versicolor (Hylidae)
+Aspects of the significance to terrestrial vertebrates of the Apalachicola River drainage basin, Florida.
+Assembling an arsenal: origin and evolution of the snake venom proteome inferred from phylogenetic analysis of toxin sequences.
+Assessing the Causes , Consequences and Trade-offs Associated With Variation in Larval Growth Rates of Southern Leopard Frogs
+Assessing the fitness consequences of mitonuclear interactions in natural populations.
+Assessing the utility of whole genome amplified DNA for next-generation molecular ecology.
+Assimilation of natural benthic substrates by two species of tadpoles
+Associative transcriptomics of traits in the polyploid crop species Brassica napus.
+ASTRAL: genome-scale coalescent-based species tree estimation.
+ASTRAL-II: coalescent-based species tree estimation with many hundreds of taxa and thousands of genes.
+Asymmetric breaks in DNA cause sterility Resolution beyond the diffraction limit
+Autoimmune response as a mechanism for a Dobzhansky-Muller-type incompatibility syndrome in plants.
+Batch effects in a multiyear sequencing study: False biological trends due to changes in read lengths.
+Bayes estimation of species divergence times and ancestral population sizes using DNA sequences from multiple loci.
+Bayesian inference of phylogeny and its impact on evolutionary biology.
+BEAST 2: a software platform for Bayesian evolutionary analysis.
+BEAST: Bayesian evolutionary analysis by sampling trees.
+Behavior and color changes of tree frogs.
+Behavioral and life-historical responses of larval American toads to an odonate predator
+Behavioral syndromes: an ecological and evolutionary overview.
+Behavioural responses to predators and predation risk in four species of larval anurans
+Bias in plant gene content following different sorts of duplication: tandem, whole-genome, segmental, or by transposition.
+Biased gene fractionation and dominant gene expression among the subgenomes of Brassica rapa.
+Bidirectional interlocus concerted evolution following allopolyploid speciation in cotton (Gossypium).
+Big, bad, and beautiful: phylogenetic relationships of the horned frogs (anura: ceratophryidae)
+Bilateral polyploidization inDactylis glomerata L. subsp.lusitanica: occurrence, morphological and genetic characteristics of first polyploids
+Biogeographical evidence for common vicariance and rare dispersal in a southern Appalachian harvestman (Sabaconidae,Sabacon cavicolens )
+Biogeography and colonization history of plethodontid salamanders from the Interior Highlands of eastern North America
+Biogeography and pattern variation of kingsnakes, lampropeltis getula, in the apalachicola region of florida
+Biological identifications through DNA barcodes.
+Bothrops jararaca venom gland transcriptome: analysis of the gene expression pattern.
+BRCA1 promoter methylation in sporadic breast cancer is associated with reduced BRCA1 copy number and chromosome 17 aneusomy.
+Breeding Structure of Populations in Relation to Speciation
+CALL DIFFERENTIATION IN A COMPLEX OF SEVEN SPECIES OF crinia (ANURA, LEPTODACTYLIDAE)
+Call Discrimination by Female Frogs of the Hyla versicolor Complex
+Call evolution in neobatrachus (anura: myobatrachidae): speculations on tetraploid origins
+Call structure and species groups in US treefrogs (Hyla).
+Call structure in two genera of australian burrowing frogs
+Call variability, stereotypy and relationships in syntopy of tetraploid common lesser escuerzo (Anura: Genus Odontophrynus )
+Calling sites used by male gray treefrogs, Hyla versicolor and Hyla chrysoscelis, in sympatry and allopatry in Missouri.
+Can we continue to neglect genomic variation in introgression rates when inferring the history of speciation? A case study in a Mytilus hybrid zone.
+Canalization breakdown and evolution in a source-sink system.
+Carryover aquatic effects on survival of metamorphic frogs during pond emigration.
+Cases in which Parsimony or Compatibility Methods will be Positively Misleading
+Catastrophic reproductive failure, terrestrial survival, and persistence of the marbled salamander.
+Cause and consequences of genome duplication in haploid yeast populations
+Causes of molecular convergence and parallelism in protein evolution.
+Cell cycle: sustained ERK signalling represses the inhibitors.
+Chaos and the evolution of cooperation.
+Chaos and unpredictability in evolution.
+Chaos in a Noisy World: New Methods and Evidence from Time-Series Analysis
+Chaotic Population Dynamics Favors the Evolution of Dispersal
+Chapter 15. Appalachia and the Eastern Cordillera David Shankman and L. Allan James
+Character displacement and replicate adaptive radiation.
+Character displacement in frogs
+Character displacement in polyphenic tadpoles.
+Characteristics of some animal calls
+Characterization of polyploid wheat genomic diversity using a high-density 90,000 single nucleotide polymorphism array.
+Characterizing College Science Assessments: The Three-Dimensional Learning Assessment Protocol.
+Checklist of amphibians in a transitional area between the Caatinga and the Atlantic Forest, central-southern Bahia, Brazi
+Chemical Paleogenetics. Molecular "Restoration Studies" of Extinct Forms of Life.
+Choice of oviposition site by hyla chrysoscelis: role of predators and competitors
+Chromosomal evolution in higher plants.
+Chromosome inversions, local adaptation and speciation.
+Chromosome number difference in the amphibian genus bufo: the bufo regularis species group.
+Chromosome pairing affinity and quadrivalent formation in polyploids: do segmental allopolyploids exist?
+Chromosome Variation in the Plethodontid Salamander,
+Chromosome-level assembly reveals extensive rearrangement in saker falcon and budgerigar, but not ostrich, genomes.
+Chromothripsis and beyond: rapid genome evolution from complex chromosomal rearrangements.
+CLUMPP: a cluster matching and permutation program for dealing with label switching and multimodality in analysis of population structure.
+Clustering of contact zones, hybrid zones, and phylogeographic breaks in North America.
+cn.MOPS: mixture of Poissons for discovering copy number variations in next-generation sequencing data with a low false discovery rate.
+Coadaptation of mitochondrial and nuclear genes, and the cost of mother's curse.
+Coalescent patterns for chromosomal inversions in divergent populations.
+Coalescent-based analysis distinguishes between allo- and autopolyploid origin in Shepherd's Purse (Capsella bursa-pastoris).
+Coding Quantitative Character Data for Phylogenetic Analysis: A Comparison of Five Methods
+Coevolutionary Landscape Inference and the Context-Dependence of Mutations in Beta-Lactamase TEM-1.
+Co-expression network analysis of duplicate genes in maize (Zea mays L.) reveals no subgenome bias.
+Cognition-mediated evolution of low-quality floral nectars.
+Combined venomics, venom gland transcriptomics, bioactivities, and antivenomics of two Bothrops jararaca populations from geographic isolated regions within the Brazilian Atlantic rainforest.
+Coming of age: ten years of next-generation sequencing technologies.
+Comment on "Precipitation drives global variation in natural selection".
+Comparable rates of gene loss and functional divergence after genome duplications early in vertebrate evolution.
+Comparative cytochemical measurements in the diploid-
+Comparative cytogenetics of tree frogs of the Dendropsophus marmoratus (Laurenti, 1768) group: conserved karyotypes and interstitial telomeric sequences.
+Comparative Hybridization of a Diploid-Tetraploid Cryptic Species Pair of Treefrogs
+Comparative phylogeography of unglaciated eastern North America.
+Comparing species tree estimation with large anchored phylogenomic and small Sanger-sequenced molecular datasets: an empirical study on Malagasy pseudoxyrhophiine snakes.
+Comparison of Bayesian and maximum-likelihood inference of population genetic parameters.
+Comparison of normalization and differential expression analyses using RNA-Seq data from 726 individual Drosophila melanogaster.
+Compensatory Drift and the Evolutionary Dynamics of Dosage-Sensitive Duplicate Genes.
+Complex life cycles and density dependence: assessing the contribution of egg mortality to amphibian declines
+Complex Life Cycles in a Variable Environment: Predicting When the Timing of Metamorphosis Shifts from Resource Dependent to Developmentally Fixed.
+Computational methods for Gene Orthology inference.
+Computing Bayes factors using thermodynamic integration.
+Concordant divergence of mitogenomes and a mitonuclear gene cluster in bird lineages inhabiting different climates.
+Condition-dependent expression of trophic polyphenism: effects of individual size and competitive ability
+Confidence limits on phylogenies: an approach using the bootstrap.
+Confidence limits on phylogenies: the bootstrap revisited
+Consequences of reproductive barriers for genealogical discordance in the European corn borer.
+Conservation and genetics of the frosted flatwoods salamander (Ambystoma cingulatum) on the Atlantic coastal plain
+Conservatism and variability of gene expression profiles among homeologous transcription factors in Xenopus laevis.
+Constraint on the penultimate glacial maximum Northern Hemisphere ice topography (H"140 kyrs BP)
+Contrasting modes and tempos of venom expression evolution in two snake species.
+Control of Larval Growth Variation in a Population of Pseudacris triseriata (Anura: hylidae)
+Convergent evolution has been demonstrated across all levels of biological organization, from parallel
+Convergent gene loss following gene and genome duplications creates single-copy families in flowering plants.
+Cooperation evolution and self-regulation dynamics in metapopulation: Stage-equilibrium hypothesis
+Coregulation of tandem duplicate genes slows evolution of subfunctionalization in mammals.
+Correctly estimating how environmental stochasticity influences fitness and population growth.
+Correlation between fitness and genetic diversity
+Costs and Benefits of a Predator-Induced Polyphenism in the Gray Treefrog Hyla chrysoscelis
+Costs and benefits of a predator-induced polyphenism in the gray treefrog hyla chrysoscelis.
+Cranial morphology and karyotypic analysis of Ceratophrys joazeirensis (Anura: Ceratophryidae, Ceratophrynae): taxonomic considerations.
+Criteria for species and their subdivisions from the point of view of genetics
+Cryptic lineages in a small frog: the post-glacial history of the spring peeper, Pseudacris crucifer (Anura: Hylidae).
+Cryptic recombination in the ever-young sex chromosomes of Hylid frogs.
+Cryptic sex? Estimates of genome exchange in unisexual mole salamanders (Ambystoma sp.).
+Cycles, stochasticity and density dependence in pink salmon population dynamics.
+Cytological Differentiation of the Diploid-Tetraploid Species Pair of North American Treefrogs (Amphibia, Anura, Hylidae)
+Cytonuclear Coordination Is Not Immediate upon Allopolyploid Formation in Tragopogon miscellus (Asteraceae) Allopolyploids.
+Cytonuclear evolution of rubisco in four allopolyploid lineages.
+Cytonuclear Genomic Interactions and Hybrid Breakdown
+Cytonuclear incompatibility contributes to the early stages of speciation.
+Cytonuclear responses to genome doubling.
+Darwin and the origin of interspecific genetic incompatibilities.
+Dating the monocot-dicot divergence and the origin of core eudicots using whole chloroplast genomes.
+Deep learning for population genetic inference.
+Defining functional DNA elements in the human genome.
+Deleterious mutations, variable epistatic interactions, and the evolution of recombination.
+Demographic model selection using random forests and the site frequency spectrum.
+Demographic stochasticity and the variance reduction effect
+Density dependence and population regulation in marine fish: a large-scale, long-term field manipulation
+Density dependence tests, are they?
+Density regulation in tadpoles of Rana temporaria: a full pond field experiment
+Description and phylogenetic relationships of a new species of treefrog of the Dendropsophus leucophyllatus group (Anura: Hylidae) from the Amazon basin of Colombia and with an exceptional color pattern
+Description of a new cryptic southwestern Amazonian species of leaf-gluing treefrog , genus Dendropsophus ( Amphibia : Anura : Hylidae ) The Nature Conservancy , Southern Andes Conservat ...
+Description of a New Solitary Spadefoot (Scaphiopus Hurterii) from Texas: With Other Herpetological Notes
+Descriptions of new genera and species of North American frogs
+Detecting adaptive trait loci in nonmodel systems: divergence or admixture mapping?
+Detecting copy number variation with mated short reads.
+Detecting polygenic adaptation in admixture graphs.
+Detecting the number of clusters of individuals using the software STRUCTURE: a simulation study.
+Detection of Density Dependence Requires Density Manipulations and Calculation of » Published by : Ecological Society of America Stable URL : http://www.jstor.org/stable/20068986 Your use of the JSTOR archive indicates your acceptance of JSTOR ' s Terms a
+Detection of human adaptation during the past 2000 years.
+Determinants of nucleosome positioning and their influence on plant gene expression.
+Developmental plasticity and maternal effects of reproductive characteristics in the frog, Bombina orientalis
+Developmental plasticity and the origin of species differences.
+Developmental thresholds and the evolution of reaction norms for age and size at life-history transitions.
+Different Antipredator Behaviour in Two Anuran Tadpoles: Effects of Predator Diet
+Different Modes of Gene Duplication Show Divergent Evolutionary Patterns and Contribute Differently to the Expansion of Gene Families Involved in Important Fruit Traits in Pear (Pyrus bretschneideri).
+Differential evolution and neofunctionalization of snake venom metalloprotease domains.
+Differential paralog divergence modulates genome evolution across yeast species.
+Differential patterns of introgression across the X chromosome in a hybrid zone between two species of house mice.
+Differentiation of the maize subgenomes by genome dominance and both ancient and ongoing gene loss.
+DigitalCommons@University of Nebraska - Lincoln DigitalCommons@University of Nebraska - Lincoln
+Diploid and tetraploid grey treefrogs (Hyla chrysoscelis and Hyla versicolor) have similar metabolic rates.
+Diploid-polyploid cryptic species pairs: a possible clue to evolution by polyploidization in anuran amphibians.
+Direct vs. indirect effects of whole-genome duplication on prezygotic isolation in Chamerion angustifolium: Implications for rapid speciation.
+Discordance in body size, colour pattern, and advertisement call across genetically distinct populations in a Neotropical anuran (Dendropsophus ebraccatus)
+Discordance of species trees with their most likely gene trees: the case of five taxa.
+Discordant temporal and geographic patterns in maternal lineages of eastern North American frogs, Rana catesbeiana (Ranidae) and Pseudacris crucifer (Hylidae).
+Discussion :
+Disentangling Incomplete Lineage Sorting and Introgression to Refine Species-Tree Estimates for Lake Tanganyika Cichlid Fishes.
+Disentangling reticulate evolution in an arctic-alpine polyploid complex.
+Disentangling the process of speciation using machine learning
+Dispersal and the evolution of specialisation in a two-habitat type metapopulation.
+Dispersal Movements and Plant Associations of Juvenile Gray Treefrogs, Hyla versicolor Le Conte
+Dispersal: risk spreading versus local adaptation.
+Disruptive selection in natural populations: the roles of ecological specialization and resource competition.
+Dissecting the basis of novel trait evolution in a radiation with widespread phylogenetic discordance.
+Dissimilarity analyses of late-quaternary vegetation and climate in eastern north america
+Distinguishing among modes of convergent adaptation using population genomic data.
+Distribution and Mating Call of the Treefrog, Hyla chrysoscelis, at the Northeastern Edge of Its Range
+DISTRUCT: a program for the graphical display of population structure
+Divergence of developmental trajectories is triggered interactively by early social and ecological experience in a cooperative breeder.
+Divergent DNA Methylation Provides Insights into the Evolution of Duplicate Genes in Zebrafish.
+Divergent evolution of duplicate genes leads to genetic incompatibilities within A. thaliana.
+Diversification in vipers: Phylogenetic relationships, time of divergence and shifts in speciation rates.
+Diversification of conspecific signals in sympatry: geographic overlap drives multidimensional reproductive character displacement in frogs.
+Diversity-Dependence, Ecological Speciation, and the Role of Competition in Macroevolution
+DNA fragility in the parallel evolution of pelvic reduction in stickleback fish.
+DNA sequencing at 40: past, present and future.
+Dobzhansky, Bateson, and the genetics of speciation.
+Does Biodiversity-Ecosystem Function Literature Neglect Tropical Ecosystems?
+Does detritus quality predict the effect of native and non-native plants on the performance of larval amphibians?
+Does hybridization influence speciation?
+Does rapid evolution matter? Measuring the rate of contemporary evolution and its impacts on ecological dynamics.
+Does speciation between Arabidopsis halleri and Arabidopsis lyrata coincide with major changes in a molecular target of adaptation?
+Dosage, duplication, and diploidization: clarifying the interplay of multiple models for duplicate gene evolution over time.
+Double trouble: taxonomy and definitions of polyploidy.
+Duplication of structural genes for hemoglobin alpha and beta chains in man.
+Dynamic evolution of venom proteins in squamate reptiles.
+Dynamic properties of the advertisement calls of gray tree frogs: patterns of variability and female choice
+Dynamics of polyploid formation in Tragopogon (Asteraceae): recurrent formation, gene flow, and population structure.
+Earth system history
+Eco-evolutionary conservation biology: contemporary evolution and the dynamics of persistence
+Eco-evolutionary dynamics in an urbanizing planet.
+Eco-evolutionary dynamics in freshwater systems
+Eco-evolutionary dynamics.
+Ecological and Reproductive Differentiation in the Cryptic Species of the Hyla versicolor Complex (Hylidae)
+Ecological Aspects of Amphibian Metamorphosis
+Ecological Character Displacement between the Sexes.
+Ecological character displacement: glass half full or half empty?
+Ecological consequences of the trade-off between growth and mortality rates mediated by foraging activity.
+Ecological differentiation of diploid and polyploid cytotypes of Senecio carniolicus sensu lato (Asteraceae) is stronger in areas of sympatry.
+Ecological Divergence, Adaptive Diversification, and the Evolution of Social Signaling Traits: An Empirical Study in Arid Australian Lizards.
+Ecological factors in speciation
+Ecological factors in speciation of Peromyscus
+Ecological niche and geographic distribution of the Chagas disease vector, Triatoma dimidiata (Reduviidae: Triatominae): Evidence for niche differentiation among cryptic species.
+Ecological opportunity and phenotypic plasticity interact to promote character displacement and species coexistence.
+Ecological speciation and phenotypic plasticity affect ecosystems
+Ecology, Evolution, and Conservation of the Pine Barrens Treefrog (Hyla andersonii). Retrieved from http://purl.flvc.org/fsu/fd/FSU_2016SU_Warwick_fsu_0071E_13389
+Effect of food and predators on the activity of four larval ranid frogs
+Effective population size and interdemic migration rates in a metapopulation of the red-spotted newt, Notophthalmus viridescens (Rafinesque)
+Effects of climatic and geological processes during the pleistocene on the evolutionary history of the northern cavefish, Amblyopsis spelaea (teleostei: amblyopsidae).
+Effects of crossovers between homeologs on inheritance and population genomics in polyploid-derived salmonid fishes.
+Effects of egg size on success of larval salamanders in complex aquatic environments
+Effects of Larval Growth History on Anuran Metamorphosis
+Effects of pH indicators on various activities of chromatophroes of Rhodospirillum rubrum.
+Effects of population size and metapopulation dynamics on a mating-system polymorphism.
+Effects of Predators on Prey Growth Rate: Relative Contributions of Thinning and Reduced Activity
+Effects of spatial grouping on the functional response of predators.
+Effects of Temperature on the Mating Call of Hyla versicolor
+Efficiently summarizing relationships in large samples: a general duality between statistics of genealogies and genomes
+Embracing heterogeneity: Building the Tree of Life and the future of phylogenomics
+Enemy at the gates: Rapid defensive trait diversification in an adaptive radiation of lizards.
+Energetics of vocalization by an anuran amphibian (Hyla versicolor)
+Enlarged multilocus data set provides surprisingly younger time of origin for the plethodontidae, the largest family of salamanders.
+Epigenetic divergence as a potential first step in darter speciation.
+Epigenetic gene silencing alters the mechanisms and rate of evolutionary adaptation.
+Epigenetic regulation of subgenome dominance following whole genome triplication in Brassica rapa.
+Estimating a binary character's effect on speciation and extinction.
+Estimating F-Statistics for the Analysis of Population Structure
+Estimating phylogenetic trees from genome-scale data.
+Evaluating hypotheses of expansion from refugia through comparative phylogeography of south-eastern Coastal Plain amphibians
+Evaluating 'Plasticity-First' Evolution in Nature: Key Criteria and Empirical Approaches.
+Evaluating the replicability of social science experiments in Nature and Science between 2010 and 2015.
+Evaluation of a non-professional visual screening method.
+Evaluation of TagSeq, a reliable low-cost alternative for RNAseq.
+Evidence for a polymorphism in gametic segregation using a malate dehydrogenase locus in the tetraploid treefrog Hyla versicolor.
+Evidence for multiple Pleistocene refugia in the postglacial expansion of the eastern tiger salamander, Ambystoma tigrinum tigrinum.
+Evidence for reciprocal origins in Polypodium hesperium (Polypodiaceae): a fern model system for investigating how multiple origins shape allopolyploid genomes.
+Evidence of interaction network evolution by whole-genome duplications: a case study in MADS-box proteins.
+Evidence that Myotis lucifugus "Subspecies" are Five Nonsister Species, Despite Gene Flow.
+Evolution and phylogeography analysis of diploid and polyploid Misgurnus anguillicaudatus populations across China.
+Evolution and plasticity of anuran larval development in response to desiccation. A comparative analysis.
+Evolution and speciation: essays in honor of MJD White.
+Evolution in population parameters: density-dependent selection or density-dependent fitness?
+Evolution of a species' range.
+Evolution of alternative splicing after gene duplication.
+Evolution of character displacement in spadefoot toads: different proximate mechanisms in different species.
+Evolution of complex life cycles of amphibians: bridging the gap between metapopulation dynamics and life history evolution
+Evolution of density-dependent dispersal in a structured metapopulation.
+Evolution of dispersal in metapopulations with local density dependence and demographic stochasticity.
+Evolution of gene-for-gene systems in metapopulations: the effect of spatial scale of host and pathogen dispersal.
+Evolution of gigantism in amphiumid salamanders.
+Evolution of mammalian hemoglobin function.
+Evolution of migration rate in a spatially realistic metapopulation model.
+Evolution of polyploidy and the diversification of plant-pollinator interactions.
+Evolution of reproductive effort in a metapopulation with local extinctions and ecological succession.
+Evolution of the Drosophila nuclear pore complex results in multiple hybrid incompatibilities.
+Evolution of vocal patterns: tuning hindbrain circuits during species divergence.
+Evolution" for the Good of the Group" The process known as group selection was once accepted unthinkingly, then was widely discredited; it's time for a more discriminating assessment
+Evolutionarily stable dispersal rate in a metapopulation with extinctions and kin competition
+Evolutionary and ecological causes of the latitudinal diversity gradient in hylid frogs: treefrog trees unearth the roots of high tropical diversity.
+Evolutionary and functional insights into the mechanism underlying high-altitude adaptation of deer mouse hemoglobin.
+Evolutionary aspects of mating call variation in a diploid-tetraploid species complex of treefrogs (anura).
+Evolutionary Biology of Trillium and Related Genera (Trilliaceae) II. Cladistic Analyses on Gross Morphological Characters, and Phylogeny and Evolution of the Genus Trillium
+Evolutionary biology: self/nonself evolution, species and complex traits evolution, methods and concepts
+Evolutionary changes of heterogametic sex in the phylogenetic history of amphibians
+Evolutionary consequences of autopolyploidy.
+Evolutionary consequences of diploid-polyploid hybrid zones in wild species.
+Evolutionary Genetics of Diploid-Tetraploid Species of Treefrogs of the Genus Hyla
+Evolutionary genetics of genome merger and doubling in plants.
+EVOLUTIONARY IMPLICATIONS OF PHENOTYPIC PLASTICITY IN THE HINDLIMB OF THE LIZARDANOLIS SAGREI
+Evolutionary implications of polyploidy in amphibians and reptiles.
+Evolutionary Inferences from Phylogenies: A Review of Methods
+Evolutionary Inferences from Restriction Maps of Mitochondrial DNA from Nine Taxa of Xenopus Frogs
+Evolutionary Inferences from Restriction Maps of Mitochondrial DNA from Nine Taxa of Xenopus Frogs
+Evolutionary origins and dynamics of octoploid strawberry subgenomes revealed by dense targeted capture linkage maps.
+Evolutionary trees from DNA sequences: a maximum likelihood approach.
+Evolution's Wedge: Competition and the Origins of Diversity
+Evolved genetic and phenotypic differences due to mitochondrial-nuclear interactions.
+Expanding anchored hybrid enrichment to resolve both deep and shallow relationships within the spider tree of life.
+Expanding the understanding of local community assembly in adaptive radiations.
+Experimental Ecology of Food Webs: Complex Systems in Temporary Ponds
+Experimental evidence for density-dependent regulation and selection on Trinidadian guppy life histories.
+Experimental evolution of gene expression and plasticity in alternative selective regimes.
+Experimental validation of methods for differential gene expression analysis and sample pooling in RNA-seq.
+Exploring evolutionary relationships across the genome using topology weighting.
+Expression properties exhibit correlated patterns with the fate of duplicated genes, their divergence, and transcriptional plasticity in Saccharomycotina.
+Extension of covariance selection mathematics.
+Extensive changes to alternative splicing patterns following allopolyploidy in natural and resynthesized polyploids.
+Extensive chromosomal variation in a recently formed natural allopolyploid species, Tragopogon miscellus (Asteraceae).
+Extensive gene content variation in the Brachypodium distachyon pan-genome correlates with population structure.
+Extensive gene tree discordance and hemiplasy shaped the genomes of North American columnar cacti.
+Extensive homoeologous genome exchanges in allopolyploid crops revealed by mRNAseq-based visualization.
+Extensive recent secondary contacts between four European white oak species.
+Extinction
+Extraction of the Constituent Subgenomes of the Natural Allopolyploid Rapeseed (Brassica napus L.).
+Factors Affecting Population Fluctuations in Larval and Adult Stages of the Wood Frog (Rana Sylvatica)
+Factors affecting variation in reproductive traits within a population of wood frogs (Rana sylvatica)
+Factors controlling color change in the tree frog, Hyla versicolor Wied.
+Facultative mate choice drives adaptive hybridization.
+Fast gapped-read alignment with Bowtie 2.
+Fat frogs, mobile genes: unexpected phylogeographic patterns for the ornate chorus frog (Pseudacris ornata).
+Female mate choice in treefrogs: static and dynamic acoustic criteria
+Female mate selection in the natterjack toad: active choice or passive atraction?
+Female status, food security, and stature sexual dimorphism: Testing mate choice as a mechanism in human self-domestication.
+Field evidence for a cost of behavioral antipredator response in a larval amphibian
+Fifteen shades of green: The evolution of Bufotes toads revisited.
+Finding evolutionary processes hidden in cryptic species.
+Fixing Formalin: A Method to Recover Genomic-Scale DNA Sequence Data from Formalin-Fixed Museum Specimens Using High-Throughput Sequencing.
+Folder - Google Drive
+Food Deprivation during Different Periods of Tadpole (Hyla chrysoscelis) Ontogeny Affects Metamorphic Performance Differently
+Food Habits of Plethodon longicrus Adler and Dennis
+Forest canopy and the performance of larval amphibians
+ForumForum
+Fractional coalescent.
+Fractionation and subfunctionalization following genome duplications: mechanisms that drive gene content and their consequences.
+Fractionation, rearrangement and subgenome dominance.
+From genome to "venome": molecular origin and evolution of the snake venom proteome inferred from phylogenetic analysis of toxin sequences and related body proteins.
+From Mendel to epigenetics: History of genetics.
+From the standpoint of the lay reader it is feared that the space devoted to remedial measures is in most cases not sufficient, nor the recommenudations as definite and specific
+Full Bayesian comparative phylogeography from genomic data
+Functional annotations of paralogs: A blessing and a curse.
+Functional Constraints and Rbcl Evidence for Land Plant Phylogeny
+Further evidence for a polymorphism in gametic segregation in the tetraploid treefrog Hyla versicolor using a glutamate oxaloacetic transaminase locus.
+Gene and species trees of a Neotropical group of treefrogs: genetic diversification in the Brazilian Atlantic Forest and the origin of a polyploid species.
+Gene balance hypothesis: connecting issues of dosage sensitivity across biological disciplines.
+Gene copy-number polymorphism in nature.
+Gene duplication and the evolution of moonlighting proteins.
+Gene duplication can impart fragility, not robustness, in the yeast protein interaction network.
+Gene duplication, genome duplication, and the functional diversification of vertebrate globins.
+Gene duplication: the genomic trade in spare parts.
+Gene duplications and the origins of vertebrate development.
+Gene expression in developing fibres of Upland cotton (Gossypium hirsutum L.) was massively altered by domestication.
+Gene expression stasis and plasticity following migration into a foreign environment.
+Gene gain and loss across the metazoan tree of life.
+Gene loss, silencing and activation in a newly synthesized wheat allotetraploid.
+Gene regulation and speciation.
+Gene retention, fractionation and subgenome differences in polyploid plants.
+Gene tree discordance, phylogenetic inference and the multispecies coalescent.
+Gene Trees in Species Trees
+Genealogical trees, coalescent theory and the analysis of genetic polymorphisms.
+Gene-balanced duplications, like tetraploidy, provide predictable drive to increase morphological complexity.
+Gene-flow in a mosaic hybrid zone: is local introgression adaptive?
+Geneious Basic: an integrated and extendable desktop software platform for the organization and analysis of sequence data.
+General models of multilocus evolution.
+Generating samples under a Wright-Fisher neutral model of genetic variation.
+Genes duplicated by polyploidy show unequal contributions to the transcriptome and organ-specific reciprocal silencing.
+Genetic adaptation associated with genome-doubling in autotetraploid Arabidopsis arenosa.
+Genetic Analysis of a Hybrid Zone Between the Fire-Bellied Toads, Bombina bombina and B. variegata, Near Cracow in Southern Poland
+Genetic and epigenetic consequences of recent hybridization and polyploidy in Spartina (Poaceae).
+Genetic and epigenetic divergence of duplicate genes in two legume species.
+Genetic and epigenetic interactions in allopolyploid plants.
+Genetic and genomic interactions of animals with different ploidy levels.
+Genetic causes of transitions from sexual reproduction to asexuality in plants and animals.
+Genetic consequences of climatic oscillations in the Quaternary.
+Genetic Coupling of Female Mate Choice with Polygenic Ecological Divergence Facilitates Stickleback Speciation.
+Genetic data reveal a cryptic species of New World flying squirrel: Glaucomys oregonensis
+Genetic diversity and multiple origins of polyploid Atriplex nummularia Lindl. (Chenopodiaceae)
+Genetic diversity increases population productivity in a sessile marine invertebrate.
+Genetic drift and mutational hazard in the evolution of salamander genomic gigantism.
+Genetic drift, selection and the evolution of the mutation rate.
+Genetic Incompatibility in the Call Races of Hyla versicolor Le Conte in Texas
+Genetic Regulation of Phenotypic Plasticity and Canalisation in Yeast Growth.
+Genetic Structure of Yonahlossee Salamander Populations A thesis presented to the faculty of the Department of Biological Sciences East Tennessee State University In partial fulfillment of the requirements for the degree Master of Science in Biology Joshu
+Genetic variation and phenotypic evolution during allopatric speciation
+Genetic Variation for Larval Anuran (Scaphiopus couchii) Development Time in an Uncertain Environment
+Genetic Variation in Tragopogon Species: Additional Origins of the Allotetraploids T. mirus and T. miscellus (Compositae)
+Genetic variation in tragopogon species: additional origins of the allotetraploids t. mirus and t. miscellus (Compositae)
+Genetically fixed characters and evolutionary divergence.
+Genetics and demography in biological conservation
+Genetics and the origin of species
+Gene-Tree Reconciliation with MUL-Trees to Resolve Polyploidy Events.
+Genome duplication and the evolution of conspecific pollen precedence.
+Genome duplication and the evolution of physiological responses to water stress.
+Genome duplication in amphibians and fish: an extended synthesis
+Genome evolution and speciation genetics of clawed frogs (Xenopus and Silurana)
+Genome evolution in polyploids.
+Genome evolution in the allotetraploid frog Xenopus laevis.
+Genome mutational and transcriptional hotspots are traps for duplicated genes and sources of adaptations.
+Genome rearrangements derived from homoeologous recombination following allopolyploidy speciation in coffee.
+Genome-specific histories of divergence and introgression between an allopolyploid unisexual salamander lineage and two ancestral sexual species.
+Genome-wide analysis of retrogene polymorphisms in Drosophila melanogaster.
+Genome-wide analysis of syntenic gene deletion in the grasses.
+Genome-wide patterns of regulatory divergence revealed by introgression lines.
+Genomic and mitochondrial evidence of ancient isolations and extreme introgression in the four-lined snake
+Genomic data recover previously undetectable fragmentation effects in an endangered amphibian.
+Genomic data reject the hypothesis of sympatric ecological speciation in a clade of Desmognathus salamanders.
+Genomic effects on advertisement call structure in diploid and triploid hybrid waterfrogs (Anura, Pelophylax esculentus).
+Genomic expression dominance in allopolyploids.
+Genomic islands of divergence in hybridizing Heliconius butterflies identified by large-scale targeted sequencing.
+Genomic landscape of early ecological speciation initiated by selection on nuptial colour.
+Genomic linkage of male song and female acoustic preference QTL underlying a rapid species radiation.
+Genomic loss and silencing on the Y chromosomes of rumex.
+Genomic signature of successful colonization of Eurasia by the allopolyploid shepherd's purse (Capsella bursa-pastoris).
+Genomics and the origin of species.
+Genomics of hybridization and its evolutionary consequences.
+Genomics of rapid incipient speciation in sympatric threespine stickleback.
+genotype and genodive: two programs for the analysis of genetic diversity of asexual organisms
+Genotyping Polyploids from Messy Sequencing Data.
+Geographic cline analysis as a tool for studying genome-wide variation: a case study of pollinator-mediated divergence in a monkeyflower.
+Geographic variation in acoustic communication: Reproductive character displacement and speciation
+Geographic variation of adaptive characters in Rana pipiens Schreber.
+Geography and vegetation of northern Florida.
+Geological and climatic forces driving speciation in the continentally distributed trilling chorus frogs (Pseudacris).
+Geometrid outbreak waves travel across Europe.
+Gibbon genome and the fast karyotype evolution of small apes.
+Glaciological reconstruction of the Laurentide Ice Sheet: physical processes and modelling challenges
+Global deceleration of gene evolution following recent genome hybridizations in fungi.
+GREEN TOADS ( BUFO VIRIDIS SUBGROUP)
+Group Selection and the Evolution of Dispersal
+Group selection in predator-prey communities
+Growth, Dispersal and Age at Sexual Maturity of the Mexican Toad (Bufo valliceps Wiegmann)
+Habitat duration, predation risk and phenotypic plasticity in common frog (Rana temporaria) tadpoles
+Haldane's rule in marsupials: what happens when both sexes are functionally hemizygous?
+Haldane's rule in the 21st century.
+Haldane's rule: genetic bases and their empirical support.
+'Haldane's Sieve' in a metapopulation: sifting through plant reproductive polymorphisms.
+Haplotype phasing: existing methods and new developments.
+Hard and soft selection revisited: how evolution by natural selection works in the real world.
+Health-related quality of life and self-perceived competence of children assessed before and up to two years after epilepsy surgery.
+Herpetologists ' League COMMUNAL NESTING , BROODING BEHAVIOR , AND EMBRYONIC SURVIVAL OF THE FOUR-TOED SALAMANDER
+Herpetologists ' League CONTEXT-DEPENDENT
+Heterozygosity and fitness in natural populations of animals
+Heterozygosity-fitness correlations among wild populations of European tree frog (Hyla arborea) detect fixation load.
+Hibernation of the lower vertebrates.
+High mutational rates of large-scale duplication and deletion in Daphnia pulex.
+High population variability and source-sink dynamics in a solitary bee species.
+High spontaneous rate of gene duplication in Caenorhabditis elegans.
+Higher-level relationships of caenophidian snakes inferred from four nuclear and mitochondrial genes.
+Highly parallel direct RNA sequencing on an array of nanopores.
+High-quality draft assemblies of mammalian genomes from massively parallel sequence data.
+High-throughput genomic data in systematics and phylogenetics
+Hind-Limb Length Plasticity in Anolis carolinensis
+Histamine receptors in the vasculature of the rabbit ear.
+Historical biogeography of present day Florida: Bulletin of the Florida State Museum.
+Historical divergence and gene flow in the genus Zea.
+Homoeolog expression bias and expression level dominance in allopolyploid cotton.
+Homoeologous exchange is a major cause of gene presence/absence variation in the amphidiploid Brassica napus.
+Homoeologous exchanges cause extensive dosage-dependent gene expression changes in an allopolyploid crop.
+Homoeologs: what are they and how do we infer them?
+Host-parasite interactions and the evolution of ploidy.
+How can evolution learn?
+How can satellite DNA divergence cause reproductive isolation? Let us count the chromosomal ways.
+How to put all your eggs in one basket: empirical patterns of offspring provisioning throughout a mother's lifetime.
+How variation between individuals affects species coexistence.
+How well can the exponential-growth coalescent approximate constant-rate birth-death population dynamics?
+Huge populations and old species of Costa Rican and Panamanian dirt frogs inferred from mitochondrial and nuclear gene sequences.
+Hybrid chickadees are deficient in learning and memory.
+Hybrid flora of the British Isles
+Hybrid necrosis: autoimmunity as a potential gene-flow barrier in plant species.
+Hybrid origins and the earliest stages of diploidization in the highly successful recent polyploid Capsella bursa-pastoris.
+Hybrid speciation leads to novel male secondary sexual ornamentation of an Amazonian bird.
+Hybrid zones: windows on climate change.
+Hybrid zones-natural laboratories for evolutionary studies.
+Hybridization and polyploidy as drivers of continuing evolution and speciation in Sorbus.
+Hybridization and speciation.
+Hybridization as a facilitator of species range expansion.
+Hybridization as a technique of biological evolution.
+Hybridization Associated with Cycles of Ecological Succession in a Passerine Bird.
+Hybridization between Two Polyploid Cardamine (Brassicaceae) Species in
+Hybridization in the Diploid-Tetraploid Treefrogs Hyla chrysoscelis and Hyla versicolor
+Hybridization in the recent past.
+Hybridization, polyploidy and invasion: lessons from Spartina (Poaceae)
+Hybridization, species collapse, and species reemergence after disturbance to premating mechanisms of reproductive isolation.
+Hybrids and genetic interactions of mole salamanders (Ambystoma jeffersonianum and A. laterale)(Amphibia, Caudata) in New York and New England. American Museum novitates; no. 3218.
+Hyla avivocaVio8ca Bird-voiced treefrog
+Hypothetical mechanism of speciaton
+HZAR: hybrid zone analysis using an R software package.
+Ice Age Haven for Hardwoods
+Ice sheets promote speciation in boreal birds.
+Identification of shared single copy nuclear genes in Arabidopsis, Populus, Vitis and Oryza and their phylogenetic utility across various taxonomic levels.
+Identification of two genes causing reinforcement in the Texas wildflower Phlox drummondii.
+Identifying multiple origins of polyploid taxa: a multilocus study of the hybrid cloak fern (Astrolepis integerrima; Pteridaceae).
+Identifying the density-dependent structure underlying ecological time series
+Identifying the number of population clusters with structure: problems and solutions.
+Illumina sequencing library preparation for highly multiplexed target capture and sequencing.
+Illuminating women's hidden contribution to historical theoretical population genetics.
+Immunological resolution of a diploid-tetraploid species complex of tree frogs.
+Impact of model violations on the inference of species boundaries under the multispecies coalescent.
+Implementing and testing the multispecies coalescent model: A valuable paradigm for phylogenomics.
+Improving marginal likelihood estimation for Bayesian phylogenetic model selection.
+In defense of P values.
+in source-sink direct and indirect evolution environments : Adaptive of density-dependence on niche evolution effects
+In vivo gene editing in dystrophic mouse muscle and muscle stem cells.
+Increased competition as a cost of specialization during the evolution of resource polymorphism
+Individual behavior and higher-order species interactions
+Induction of triploidy and haploidy in the newt, Triturus viridescens, by cold treatment of unsegmented eggs
+Inference of adaptive shifts for multivariate correlated traits.
+Inference of human population history from individual whole-genome sequences.
+Inference of population splits and mixtures from genome-wide allele frequency data.
+Inference of population structure using multilocus genotype data.
+Inference of population structure using multilocus genotype data: linked loci and correlated allele frequencies.
+Inferring continuous and discrete population genetic structure across space.
+Inferring Phylogenetic Networks with Maximum Pseudolikelihood under Incomplete Lineage Sorting.
+Inferring species trees directly from biallelic genetic markers: bypassing gene trees in a full coalescent analysis.
+Inferring the historical patterns of biological evolution.
+Inferring the joint demographic history of multiple populations from multidimensional SNP frequency data.
+Inferring the mode of origin of polyploid species from next-generation sequence data.
+Inferring whole-genome histories in large population datasets.
+Influence of amphibian larvae on primary production, nutrient flux, and competition in a pond ecosystem
+Insect genome content phylogeny and functional annotation of core insect genomes.
+Inside the guts of the city: Urban-induced alterations of the gut microbiota in a wild passerine.
+Insights from genomes into the evolutionary importance and prevalence of hybridization in nature.
+Insights into population genetics and evolution of polyploids and their ancestors.
+Insights into the Ecology and Evolution of Polyploid Plants through Network Analysis.
+Instantaneous song modification in response to fluctuating traffic noise in the tree cricket Oecanthus pellucens
+Integrating ecology and developmental biology to explain the timing of frog metamorphosis.
+Integrating life history traits into predictive phylogeography.
+Integrating networks, phylogenomics, and population genomics for the study of polyploidy
+Integrating phylogenomic and morphological data to assess candidate species-delimitation models in brown and red-bellied snakes (Storeria )
+Interaction Between Food Availability and Predation Mortality Mediated by Adaptive Behavior
+Interallelic and intergenic incompatibilities of the Prdm9 (Hst1) gene in mouse hybrid sterility.
+Interbreeding of natural populations of vertebrates
+Interim Report: Speciation Along Environmental Gradients
+Interspecific competition, environmental gradients, gene flow, and the coevolution of species' borders.
+Intraclutch egg size variability in Hyla crucifer (Anura: Hylidae)
+Intraspecific Density Dependence in Larval Development of the Crawfish Frog, Lithobates areolatus
+Intra-specific variation in advertisement call of Odontophrynus cordobae (Anura, Cycloramphidae): a multilevel and multifactor analysis
+Intrinsic adaptive value and early fate of gene duplication revealed by a bottom-up approach.
+introgress: a software package for mapping components of isolation in hybrids.
+INTROGRESSIVE HYBRIDIZATION
+Invasion and maintenance of a gene duplication.
+Iodine uptake and turnover in the frog tadpole
+Is a new and general theory of molecular systematics emerging?
+Is post-polyploidization diploidization the key to the evolutionary success of angiosperms?
+Is recombination a problem for species-tree analyses?
+Isolating mechanisms in three sympatric treefrogs in the canal zone
+Isolating mechanisms in tree frogs.
+Isolation by Distance.
+Isolation with migration models for more than two populations.
+Jason Weir's research page
+Knowing when to draw the line: designing more informative ecological experiments
+Konnector: Connecting paired-end reads using a bloom filter de Bruijn graph
+Large-scale copy number polymorphism in the human genome.
+Larval experience and latent effects--metamorphosis is not a new beginning.
+Larynx control and call production in frogs
+Late Cenozoic hylids from the great plains.
+Late Pleistocene braided rivers of the Atlantic Coastal Plain, USA
+Late quaternary vegetation history of northern north america based on pollen, macrofossil, and faunal remains*
+Late-quaternary vegetation dynamics in north america: scaling from taxa to biomes
+Leaky prezygotic isolation and porous genomes: rapid introgression of maternally inherited DNA.
+Learning experiments with larval frogs. A preliminary report.
+Learning to learn: advanced behavioural flexibility in a poison frog
+Leaving home ain't easy: non-local seed dispersal is only evolutionarily stable in highly unpredictable environments.
+Length in Impatiens capensis
+Lethal combat over limited resources: testing the importance of competitors and kin.
+Letters to the editor about the contents of past issues and comment on topics of current concern toFrontiers readers
+Life History of the Gray Treefrog (Hyla chrysoscelis) in Western Tennessee
+Life-history evolution in guppies VIII: the demographics of density regulation in guppies (Poecilia reticulata).
+Limb regeneration in adult amphibia
+Limitations of climatic data for inferring species boundaries: insights from speckled rattlesnakes.
+Limits of mountain and continental glaciations east of the Continental
+Limits to evolution at range margins: when and why does adaptation fail?
+Lineage diversification in a widespread species: roles for niche divergence and conservatism in the common kingsnake, Lampropeltis getula.
+Lineages evolved under stronger sexual selection show superior ability to invade conspecific competitor populations.
+Lineage-specific rediploidization is a mechanism to explain time-lags between genome duplication and evolutionary diversification.
+Linking life-history theory and metabolic theory explains the offspring size-temperature relationship.
+Linking modern coexistence theory and contemporary niche theory.
+Local extinction and the evolution of dispersal rates: causes and correlations.
+Local prey community composition and genetic distance predict venom divergence among populations of the northern Pacific rattlesnake (Crotalus oreganus).
+Long Island Fauna and Flora-III: The Frogs and Toads
+Long-term dynamics of adaptation in asexual populations.
+Long-term population dynamics of Littorina obtusata: the spatial structure and impact of trematodes
+Looking forwards or looking backwards in avian phylogeography? A comment on Zink and Barrowclough 2008.
+lososlab.oeb.harvard.edu/files/lososlab/files/nature97.pdf
+Loyola eCommons Urspelerpes brucei
+Madagascar ground gecko genome analysis characterizes asymmetric fates of duplicated genes.
+MAFFT multiple sequence alignment software version 7: improvements in performance and usability.
+MAFFT: a novel method for rapid multiple sequence alignment based on fast Fourier transform.
+Maintenance and loss of duplicated genes by dosage subfunctionalization.
+Maintenance of duplicate genes and their functional redundancy by reduced expression.
+Major ecological transitions in wild sunflowers facilitated by hybridization.
+Making a functional diploid: from polysomic to disomic inheritance.
+Male pursuit of higher reproductive success drives female polyandry in the Omei treefrog
+Male sexual signal predicts phenotypic plasticity in offspring: implications for the evolution of plasticity and local adaptation.
+Mammalian protein metabolism
+Mapping amphibian contact zones and phylogeographical break hotspots across the United States.
+Mapping the genomic architecture of ecological speciation in the wild: does linkage disequilibrium hold the key?
+Mass Occurrence of Polyploid Green Frogs (Rana esculenta Complex) in Eastern Ukraine.
+Mate Selection in the Gray Treefrog, Hyla versicolor
+Maternal effects mechanism of population cycling: a formidable competitor to the traditional predator-prey view.
+Maternal effects on offspring growth and development depend on environmental quality in the frogBombina orientalis
+Maternal-by-environment but not genotype-by-environment interactions in a fish without parental care.
+Mating Behavior in the Treefrog. Hyla versicolor
+MATING CALL AND STAGE OF SPECIATION IN THE MICROHYLA OLIVACEA-M. CAROLINENSIS COMPLEX
+Mating Call Differences between Eastern and Western Populations of the Treefrog Hyla chrysoscelis
+Mating call in the speciation of anuran amphibians
+Mating Calls in Autotriploid and Autotetraploid Males in Hyla japonica
+Mating Consequences of Polyploid Evolution in Flowering Plants: Current Trends and Insights from Synthetic Polyploids
+Maximum Likelihood and Minimum-Steps Methods for Estimating Evolutionary Trees from Data on Discrete Characters
+Maximum-likelihood estimation of a hybrid index based on molecular markers
+Measurement and meaning in biology.
+Measurement of mRNA abundance using RNA-seq data: RPKM measure is inconsistent among samples.
+Meiosis and its deviations in polyploid animals.
+Metamorphic Responses to Changing Food Levels in Two Species of Hylid Frogs
+Metapopulation dynamics
+Metapopulation dynamics: brief history and conceptual domain
+Metapopulation Genetics and the Evolution of Dispersal
+Metapopulation structure favors plasticity over local adaptation.
+Methods for studying polyploid diversification and the dead end hypothesis: a reply to Soltis et al. (2014).
+Methods in comparative psychoacoustics
+Microarray analysis reveals differential gene expression in hybrid sunflower species.
+Microevolution and maternal effects on tadpole Rana temporaria growth and development rate
+Minority Cytotype Exclusion in Local Plant Populations
+Miscellaneous notes on indiana amphibians and reptiles
+Mitochondrial DNA evolution of tetraploids in the genus neobatrachus (anura: myobatrachidae)
+Mitochondrial gene in the nuclear genome induces reproductive barrier in rice.
+Mitochondrial genomes reveal the global phylogeography and dispersal routes of the migratory locust.
+Mitochondrial-nuclear epistasis affects fitness within species but does not contribute to fixed incompatibilities between species of Drosophila.
+Mitonuclear discordance is caused by rampant mitochondrial introgression in Neodiprion (Hymenoptera: Diprionidae) sawflies.
+Mixed-Ploidy Species: Progress and Opportunities in Polyploid Research.
+Model use in phylogenetics: nine key questions.
+Modeling stabilizing selection: expanding the Ornstein-Uhlenbeck model of adaptive evolution.
+Modern phylogenetic comparative methods and their application in evolutionary biology
+Molecular data and the dynamic nature of polyploidy
+Molecular indicators of tree migration capacity under rapid climate change
+Molecular marker incongruence in plant hybrid zones and phylogenetic trees
+Molecular mechanisms underlying intraspecific variation in snake venom.
+Molecular phylogenetics of Kosteletzkya (Malvaceae, Hibisceae) reveals multiple independent and successive polyploid speciation events
+Molecular phylogenetics of western North American frogs of the Rana boylii species group.
+Molecular spandrels: tests of adaptation at the genetic level.
+Molecular structure of nucleic acids: a structure for deoxyribose nucleic acid.
+Molecular systematics of Trilliaceae II. Phylogenetic analyses ofTrillium and its allies using sequences ofrbcL andmatK genes ofcp DNA and internal transcribed spacers of 18S-26S nrDNA
+Molecular systematics, phylogeography, and the effects of Pleistocene glaciation in the painted turtle (Chrysemys picta) complex.
+Molecular-level variation affects population growth in a butterfly metapopulation.
+More sex chromosomes than autosomes in the Amazonian frog Leptodactylus pentadactylus.
+Morphological correlates of incipient arboreality and ornithophagy in island pitvipers, and the phylogenetic position of Bothrops insularis
+Morphological systematics of kingsnakes, Lampropeltis getula complex (Serpentes: Colubridae), in the eastern United States
+Moving Character Displacement beyond Characters Using Contemporary Coexistence Theory.
+Multilocus phylogeography and phylogenetics using sequence-based markers.
+Multi-model inference in comparative phylogeography: an integrative approach based on multiple lines of evidence.
+Multiple autopolyploidizations and range expansion of Allium przewalskianum Regel. (Alliaceae) in the Qinghai-Tibetan Plateau.
+Multiple large-scale gene and genome duplications during the evolution of hexapods.
+Multiple models to capture the variability in biological neurons and networks.
+Multiple origins of polyploidy and the geographic structure of Heuchera grossulariifolia
+Multiple origins of tetraploid taxa in the Eurasian Bufo viridis subgroup
+Multiple paternity in the common fkog
+Multiple Polyploidization Events across Asteraceae with Two Nested Events in the Early History Revealed by Nuclear Phylogenomics.
+Multispecies coalescent delimits structure, not species.
+Multistage density dependence in an amphibian.
+Multivariate phylogenetic comparative methods: evaluations, comparisons, and recommendations.
+Murray john littlejohn and patricia gordon (patsy) littlejohn
+Narrow thermal tolerance and low dispersal drive higher speciation in tropical mountains.
+Natural Hybridization between Diploid and Tetraploid Species of Leaf-Frogs, Genus Phyllomedusa (Amphibia)
+Natural hybridization between the tree frogs Hyla versicolor and Hyla avivoca.
+Natural selection favors local specialization in a widespread habitat generalist.
+Natural selection in populations subject to a migration load.
+Natural selection interacts with recombination to shape the evolution of hybrid genomes.
+Natural selection shapes genome-wide patterns of copy-number polymorphism in Drosophila melanogaster.
+Neglect of the tropics is widespread in ecology and evolution: A comment on clarke et al.
+Neofunctionalization of duplicated genes under the pressure of gene conversion.
+Neofunctionalization of young duplicate genes in Drosophila.
+Neopolyploidy and diversification in Heuchera grossulariifolia.
+Nested radiations and the pulse of angiosperm diversification: increased diversification rates often follow whole genome duplications.
+Network approaches for plant phylogenomic synteny analysis.
+Neutral genetic diversity in a metapopulation with recurrent local extinction and recolonization
+NICHE CONSERVATISM: Integrating Evolution, Ecology, and Conservation Biology
+Nomenclature of the Diploid Species of the Diploid-Tetraploid Hyla versicolor Complex
+Non-Contact Infrared Thermometers Can Accurately Measure Amphibian Body Temperatures
+Non-Morphological Data in Anuran Classification
+Non-parallel coevolution of sender and receiver in the acoustic communication system of treefrogs.
+Note on oklahoma microhylid frogs
+Notes on the psychology of frogs and toads
+Notes on the Status of Hyla phaeocrypta Cope
+Nuclear volume control by nucleoskeletal DNA, selection for cell volume and cell growth rate, and the solution of the DNA C-value paradox.
+Nucleolar dominance: uniparental gene silencing on a multi-megabase scale in genetic hybrids.
+Number of genes controlling a quantitative trait in a hybrid zone of the aposematic frog Ranitomeya imitator.
+Nutrients from salmon parents alter selection pressures on their offspring.
+Observations on the relation of carbon dioxide and oxygen to the development of certain amphibian embryos
+on December 2, 2016
+On the environmental control of oocyte maturation in a plethodontid salamander
+On the relative ease of speciation with periodic gene flow
+On the Theory of Scales of Measurement
+On the zoological position of texas
+One step forward: contrasting the effects of Toe clipping and PIT tagging on frog survival and recapture probability.
+One thousand plant transcriptomes and the phylogenomics of green plants.
+ongoing gene loss
+onlinelibrary.wiley.com.sci-hub.cc/doi/10.1111/j.1365-294X.2010.04879.x/full
+Ontogenetic Loss of Phenotypic Plasticity of Age at Metamorphosis in Tadpoles
+Ontogenic development and anatomical distribution of a supernumerary limb-inducing factor.
+Opposing effects of competitive exclusion on the phylogenetic structure of communities.
+Optimistic growth: competition and an ontogenetic niche-shift select for rapid growth in pumpkinseed sunfish (Lepomis gibbosus)
+Organic matter degradation drives benthic cyanobacterial mat abundance on Caribbean coral reefs.
+Organ-specific silencing of duplicated genes in a newly synthesized cotton allotetraploid.
+Origin and evolution of the octoploid strawberry genome.
+Origin of extant domesticated sunflowers in eastern North America.
+Origin, inheritance, and gene regulatory consequences of genome dominance in polyploids.
+Other uses, including reproduction and distribution, or selling or licensing copies, or posting to personal, institutional or third party websites are prohibited.
+Out of the tropics: evolutionary dynamics of the latitudinal diversity gradient.
+P3: phylogenetic posterior prediction in revbayes.
+pages.bangor.ac.uk/~bss024/pdfs/1997/Salomao SZSL 1997.pdf
+Palatability and antipredator behavior of the treefrog Hyla versicolor to the shrew Blarina brevicauda
+Paleoclimate simulations for North America over the past 21,000 years
+PALEOCLIMATE SIMULATIONS FOR NORTH AMERICA OVER THE PAST 21,000 YEARS: FEATURES OF THE SIMULATED CLIMATE AND COMPARISONS WITH PALEOENVIRONMENTAL DATA
+Paleoclimatic modeling and phylogeography of least killifish, Heterandria formosa: insights into Pleistocene expansion-contraction dynamics and evolutionary history of North American Coastal Plain freshwater biota.
+Parallel changes in mate-attracting calls and female preferences in autotriploid tree frogs.
+Parallel climate and vegetation responses to the early Holocene collapse of the Laurentide Ice Sheet
+Parallel Electromorph Variation in the Diploid-Tetraploid Gray Treefrog Complex
+Parallel evolution of character displacement driven by competitive selection in terrestrial salamanders.
+Parallel Evolution of Copy-Number Variation across Continents in Drosophila melanogaster.
+Parallel geographical patterns of allozyme variation in two sibling Drosophila species
+Parallel polyploid speciation: distinct sympatric gene-pools of recurrently derived allo-octoploid Asplenium ferns
+Parentage and sibship inference from markers in polyploids.
+Parent-dependent loss of gene silencing during interspecies hybridization.
+Partitioning and combining data in phylogenetic analysis
+Past Glacial Environments
+Patterns and Processes of Diploidization in Land Plants
+Patterns of advertisement call evolution in toads and chorus frogs
+Patterns of natural selection on size at metamorphosis in water frogs.
+Patterns of oviposition in two species of hylid frogs
+Patterns of polymorphism and demographic history in natural populations of Arabidopsis lyrata.
+Patterns of species ranges, speciation, and extinction.
+Performance of gene expression analyses using de novo assembled transcripts in polyploid species.
+Persistence of subgenomes in paleopolyploid cotton after 60 my of evolution.
+Phenotypic plasticity's impacts on diversification and speciation.
+Phosphate binding by llama and camel hemoglobin
+PHRAPL: phylogeographic inference using approximate likelihoods.
+Phylodynamics with Migration: A Computational Framework to Quantify Population Structure from Genomic Data.
+Phylogenetic analyses of Trilliaceae based on morphological and molecular data
+Phylogenetic analysis: models and estimation procedures.
+Phylogenetic Comparative Methods on Phylogenetic Networks with Reticulations.
+Phylogenetic position of Lophomonas striata Bütschli (Parabasalia) from the hindgut of the cockroach Periplaneta americana.
+Phylogenetic relationships and evolutionary history of the Mesoamerican endemic freshwater fish family Profundulidae (Cyprinodontiformes: Actinopterygii).
+Phylogenetic relationships of toads in the Bufo bufo species group from the eastern escarpment of the Tibetan Plateau: a case of vicariance and dispersal.
+Phylogenetics, classification, and biogeography of the treefrogs (Amphibia: Anura: Arboranae).
+Phylogenies and the comparative method.
+Phylogenomic support for evolutionary relationships of New World direct-developing frogs (Anura: Terraranae).
+Phylogenomics reveals rapid, simultaneous diversification of three major clades of Gondwanan frogs at the Cretaceous-Paleogene boundary.
+Phylogeny and classification of Paris (Melanthiaceae) inferred from DNA sequence data.
+Phylogeny estimation: traditional and Bayesian approaches.
+Phylogeny of Hemoglobin
+Phylogeny-based delimitation of species boundaries and contact zones in the trilling chorus frogs (Pseudacris).
+Phylogeographic analyses of the southern leopard frog: the impact of geography and climate on the distribution of genetic lineages vs. subspecies.
+Phylogeographic analysis of the cornsnake (Elaphe guttata) complex as inferred from maximum likelihood and Bayesian analyses.
+Phylogeographic and demographic effects of Pleistocene climatic fluctuations in a montane salamander, Plethodon fourchensis.
+Phylogeographic inference using Bayesian model comparison across a fragmented chorus frog species complex.
+Phylogeography and evolution of the Red Salamander (Pseudotriton ruber).
+Phylogeography and historical demography of the arboreal pit viper Bothrops bilineatus (Serpentes, Crotalinae) reveal multiple connections between Amazonian and Atlantic rain forests
+Phylogeography of Diadophis punctatus: extensive lineage diversity and repeated patterns of historical demography in a trans-continental snake.
+Phylogeography of the Blue-spotted Salamander, Ambystoma Laterale (Caudata: Ambystomatidae)
+Phylogeography of the Bothrops jararaca complex (Serpentes: Viperidae): past fragmentation and island colonization in the Brazilian Atlantic Forest.
+Phylonetworks: A package for phylogenetic networks.
+Phylotranscriptomic consolidation of the jawed vertebrate timetree.
+Pinpointing the level of isolation between two cryptic species sharing the same microhabitat: a case study with a scarabaeid species complex
+Plant genetics. Early allopolyploid evolution in the post-Neolithic Brassica napus oilseed genome.
+Plant speciation.
+Pleistocene glacial cycles drove lineage diversification and fusion in the yosemite toad (Anaxyrus canorus).
+Pollinator-mediated selection on flower color allele drives reinforcement.
+Polymorphism
+POLYMORPHISMS IN NATURAL POPULATIONS BY MEANS OF A DISTANCE ANALYSIS
+Polyphenism in Spadefoot Toad Tadpoles as a Logically Adjusted Evolutionarily Stable Strategy
+Polyploid Arabidopsis species originated around recent glaciation maxima.
+Polyploid Incidence and Evolution
+Polyploids with different origins and ancestors form a single sexual polyploid species.
+Polyploidy alters advertisement call structure in gray treefrogs.
+Polyploidy and angiosperm diversification.
+Polyploidy and ecological adaptation in wild yarrow.
+Polyploidy and genome evolution
+Polyploidy and Genome Evolution
+Polyploidy and genome evolution in plants.
+Polyploidy and interspecific hybridization: partners for adaptation, speciation and evolution in plants.
+Polyploidy breaks speciation barriers in Australian burrowing frogs Neobatrachus.
+Polyploidy in Amphibia.
+Polyploidy in animals: effects of gene expression on sex determination, evolution and ecology.
+Polyploidy in archaea and bacteria: about desiccation resistance, giant cell size, long-term survival, enforcement by a eukaryotic host and additional aspects.
+Polyploidy in arctic plants
+Polyploidy in creosote bush (Larrea tridentata) shapes the biogeography of specialist herbivores.
+Polyploidy in fishes: patterns and processes
+Polyploidy in fungi: evolution after whole-genome duplication.
+Polyploidy in the australian leptodactylid frog genus Neobatrachus.
+Polyploidy in the common tree toad Hyla versicolor Le Conte.
+Polyploidy, hybridization and reticulate evolution: lessons from the Brassicaceae
+Polyploidy, hybridization, and the invasion of new habitats
+Polyploidy, the nucleotype, and novelty: the impact of genome doubling on the biology of the cell.
+Polyploidy: Pitfalls and paths to a paradigm.
+Polyploidy: recurrent formation and genome evolution.
+Poor fit to the multispecies coalescent is widely detectable in empirical data.
+Population differences in the onset of cranial ossification in pumpkinseed (Lepomis gibbosus), a potential cost of rapid growth
+Population dynamics of a threatened cactus species: general assessment and effects of matrix dimensionality
+Population dynamics of red-backed voles (Myodes) in North America.
+Population Ecology: First principles
+Population genetic structure of the toad Bufo woodhousii: an empirical assessment of the effects of haplotype extinction on nested cladistic analysis.
+Population genetic variation, geographic structure, and multiple origins of autopolyploidy in Galax urceolata.
+Population Genetics and Microevolutionary Theory
+Population Genetics of a Polyploid: Is There Hybridization Between Lineages of Hyla versicolor?
+Population genomics of an exceptional hybridogenetic system of Pelophylax water frogs.
+Population regulation in the wood frog, Rana sylvatica, from three diverse geographic localities
+Population regulation, emergent properties, and a requiem for density dependence
+Post-glacial expansion into the Paleozoic Plateau: evidence of an Ozarkian refugium for the Ozark minnow Notropis nubilus (Teleostei: Cypriniformes).
+Postglacial range expansion from northern refugia by the wood frog, Rana sylvatica.
+Post-glacial re-colonization of European biota
+Postmating female control: 20 years of cryptic female choice.
+Postzygotic isolation over multiple generations of hybrid descendents in a natural hybrid zone: how well do single-generation estimates reflect reproductive isolation?
+Potential rapid evolution of foot morphology in Italian plethodontid salamanders (Hydromantes strinatii) following the colonization of an artificial cave.
+Powerful methods for detecting introgressed regions from population genomic data.
+Precipitation drives global variation in natural selection.
+Predator- and Competitor-Induced Plasticity: How Changes in Foraging Morphology Affect Phenotypic Trade-Offs
+Predator-induced behavioral indirect effects: consequences to competitive interactions in anuran larvae
+Predator-induced morphological changes in an amphibian: predation by dragonflies affects tadpole shape and color
+Predator-induced stress makes the pesticide carbaryl more deadly to gray treefrog tadpoles (Hyla versicolor).
+Predicting Amphibian Metamorphosis
+Preferential bivalent formation in tetraploid male of Pacific oyster Crassostrea gigas Thunberg
+Preliminary report on the peat deposits of Florida
+PREMATING ISOLATION IN THE hyla ewingi COMPLEX (ANURA: HYLIDAE)
+Preservation of duplicate genes by complementary, degenerative mutations.
+Principles for Management of Aquatic-Breeding Amphibians
+Probabilistic graphical model representation in phylogenetics.
+Profiling gene expression responses of coral larvae (Acropora millepora) to elevated temperature and settlement inducers using a novel RNA-Seq procedure.
+Progesterone and prostaglandin F2± induce species-typical female preferences for male sexual displays in Cope's gray treefrog (Hyla chrysoscelis).
+Properties of Semliki Forest virus nucleocapsid.
+Punctuated equilibria: the tempo and mode of evolution reconsidered
+Quantifying Gene Flow from Spatial Genetic Structure Data in a Matepopulation of Chamaecrista Fasciculata (Leguminosae)
+Quantifying the spatiotemporal dynamics in a chorus frog (Pseudacris) hybrid zone over 30 years.
+Quantitative genetics of plumage color: lifetime effects of early nest environment on a colorful sexual signal.
+Quantity, Not Quality: Rapid Adaptation in a Polygenic Trait Proceeded Exclusively through Expression Differentiation.
+Quaternary Glaciations - Extent and Chronology - A Closer Look
+Quaternary phylogeography: the roots of hybrid zones.
+R.G. Harrison, Hybrid zones and the evolutionary process
+R: A language and environment for statistical computing.
+Rain forest shifts through time and riverine barriers shaped the diversification of South American terrestrial pit vipers ( Bothrops jararacussu species group)
+Range-wide chloroplast and mitochondrial DNA imprints reveal multiple lineages and complex biogeographic history for Douglas-fir
+Range-wide phylogeography of the four-toed salamander: out of Appalachia and into the glacial aftermath
+Rapid divergence and diversification of mammalian duplicate gene functions.
+Rapid evolution of a native species following invasion by a congener.
+Rapid genome reshaping by multiple-gene loss after whole-genome duplication in teleost fish suggested by mathematical modeling.
+Rapid neo-sex chromosome evolution and incipient speciation in a major forest pest.
+Rapid range shifts of species associated with high levels of climate warming.
+Rapid responses of the prairie-forest ecotone to early Holocene aridity in mid-continental North America
+Rapid subfunctionalization accompanied by prolonged and substantial neofunctionalization in duplicate gene evolution.
+Rapid, repeated, and clustered loss of duplicate genes in allopolyploid plant populations of independent origin.
+RAxML version 8: a tool for phylogenetic analysis and post-analysis of large phylogenies.
+RAxML-VI-HPC: maximum likelihood-based phylogenetic analyses with thousands of taxa and mixed models.
+Reanalysis suggests that genomic islands of speciation are due to reduced diversity, not reduced gene flow.
+Reassessment of the environmental model of developmental polyphenism in spadefoot toad tadpoles.
+Recent Asian origin of chytrid fungi causing global amphibian declines.
+Recent progress and challenges in population genetics of polyploid organisms: an overview of current state-of-the-art molecular and statistical tools.
+Recently formed polyploid plants diversify at lower rates.
+Reciprocal Pleistocene origin and postglacial range formation of an allopolyploid and its sympatric ancestors (Androsace adfinis group, Primulaceae)
+Recombination Rate Evolution and the Origin of Species.
+Reconstructing the genome of the most recent common ancestor of flowering plants.
+Reconstruction of the Laurasian and Gondwanan segments of Permian Pangaea
+Recurrent connections between Amazon and Atlantic forests shaped diversity in Caatinga four-eyed frogs
+Reduced burst speed is a cost of rapid growth in anuran tadpoles: problems of autocorrelation and inferences about growth rates
+Reduced Gene Flow from Mainland Populations of Liriodendron tulipifera into the Florida Peninsula Promotes Diversification
+Reduced lifespan and increased ageing driven by genetic drift in small populations.
+Reduced signal for polygenic adaptation of height in UK Biobank.
+Regional Dynamics of Plants : A Review of Evidence for Remnant , Source-Sink and Metapopulations Ove Eriksson
+Reinforcement and reproductive character displacement in gastrophryne carolinensis and g. olivacea (anura: microhylidae): a reexamination.
+Reinforcement drives rapid allopatric speciation.
+Reinforcement in chorus frogs: lifetime fitness estimates including intrinsic natural selection and sexual selection against hybrids.
+Reinforcement in plants.
+Relaxed genetic constraint is ancestral to the evolution of phenotypic plasticity.
+Remarks on the American species of the genera Hyla and Rana.
+Re-mating across years and intralineage polygyny are associated with greater than expected levels of inbreeding in wild red deer.
+Repeated elevational transitions in hemoglobin function during the evolution of Andean hummingbirds.
+Repetitive DNA in the pea (Pisum sativum L.) genome: comprehensive characterization using 454 sequencing and comparison to soybean and Medicago truncatula.
+REPRODUCTIVE BIOLOGY OF AMPHIBIANS
+Reproductive character displacement and other sources of selection on acoustic communication systems.
+Reproductive character displacement of female mate choice in the grey treefrog, Hyla chrysoscelis
+Reproductive isolation between populations of Iris atropurpurea is associated with ecological differentiation.
+REPRODUCTIVE ISOLATION BETWEEN SYMPATRIC RACES OF PEA APHIDS.
+Reproductive senescence in female Soay sheep: variation across traits and contributions of individual ageing and selective disappearance
+Resolving taxonomic turbulence and uncovering cryptic diversity in the musk turtles (Sternotherus) using robust demographic modeling.
+Resolving the paradox of sex and recombination.
+Resource partitioning along multiple niche axes drives functional diversity in parrotfishes on Caribbean coral reefs.
+respond to floating-point exceptions such as overflow This paper presents a tutorial on the aspects of floating-point that have a direct impact on designers of computer
+Rethinking ecological inference: density dependence in reef fishes
+Rethinking phylogenetic comparative methods
+Reticulate evolution of the Daphnia pulex complex as revealed by nuclear markers.
+Reticulate evolution, introgression, and intertribal gene capture in an allohexaploid grass.
+Reticulate evolutionary history and extensive introgression in mosquito species revealed by phylogenetic network analysis.
+Revision of theEurycea quadridigitata (Holbrook 1842) Complex of Dwarf Salamanders (Caudata: Plethodontidae: Hemidactyliinae) with a Description of Two New Species
+Revisiting the evolution of the North American tetraploid treefrog (Hyla versicolor).
+RNA-seq differential expression studies: more sequence or more replication?
+RNA-seq: technical variability and sampling.
+Robust regression and outlier detection
+Robust regression and outlier detection.
+Role modeling is a viable retention strategy for undergraduate women in the geosciences
+Role of Gene Interactions in Hybrid Speciation: Evidence from Ancient and Experimental Hybrids
+SaGePhy: an improved phylogenetic simulation framework for gene and subgene evolution.
+scholar
+sci-hub.cc/http://www.pnas.org/content/106/34/14450.full
+sci-hub.cc/https://www.nature.com/nature/journal/v475/n7357/full/nature10231.html
+Screening of duplicated loci reveals hidden divergence patterns in a complex salmonid genome.
+Segregation models for disomic, tetrasomic and intermediate inheritance in tetraploids: a general procedure applied to Rorippa (yellow cress) microsatellite data.
+Selecting between-sample RNA-Seq normalization methods from the perspective of their assumptions.
+Selection and environmental adaptation along a path to speciation in the Tibetan frog Nanorana parkeri.
+Selection for phenotypic divergence between diploid and autotetraploid Heuchera grossulariifolia.
+Selection Its Significance for Ecology
+Selection on a genetic polymorphism counteracts ecological speciation in a stick insect.
+Selection to increase expression, not sequence diversity, precedes gene family origin and expansion in rattlesnake venom.
+Selective constraints on coding sequences of nervous system genes are a major determinant of duplicate gene retention in vertebrates.
+Self-fertilization and inbreeding depression in three ascidian species that differ in genetic dispersal potential
+Sensory bias as an explanation for the evolution of mate preferences.
+Sequence-level analysis of the diploidization process in the triplicated FLOWERING LOCUS C region of Brassica rapa.
+Serum-free growth of HTC cells containing glucocorticoid- and insulin-inducible tyrosine aminotransferase and cytoplasmic glucocorticoid receptors.
+Seven common mistakes in population genetics and how to avoid them.
+Sex speeds adaptation by altering the dynamics of molecular evolution.
+Sex, Mitochondria, and Genetic Rescue.
+Sexual antagonism and the instability of environmental sex determination.
+Sexual imprinting and speciation between two Peromyscus species.
+Sexual selection enables long-term coexistence despite ecological equivalence.
+SEXUAL SELECTION. Irrationality in mate choice revealed by túngara frogs.
+Shared subgenome dominance following polyploidization explains grass genome evolutionary plasticity from a seven protochromosome ancestor with 16K protogenes.
+Shifts in disease dynamics in a tropical amphibian assemblage are not due to pathogen attenuation.
+Simplicity and complexity in ecological data analysis.
+Simultaneous Mendelian and clonal genome transmission in a sexually reproducing, all-triploid vertebrate.
+Single geographic origin of a widespread autotetraploid Arabidopsis arenosa lineage followed by interploidy admixture.
+Single-Locus Inheritance in the Tetraploid Treefrog Hyla versicolor with an Analysis of Expected Progeny Ratios in Tetraploid Organisms.
+Singleton SNPs in the human genome and implications for genome-wide association studies.
+Size Differences in Adhesive Toe-Pad Cells of Treefrogs of the Diploid-Polyploid Hyla versicolor Complex
+Size Groups and their Characteristics in the Salamander Hemidactylium scutatum (Schlegel)
+Size Selective Mating in Hyla versicolor and Hyla crucifer
+SLiM 3: Forward Genetic Simulations Beyond the Wright-Fisher Model.
+Snake venomics and antivenomics of Crotalus durissus subspecies from Brazil: assessment of geographic variation and its implication on snakebite management.
+Snake venomics of the Central American rattlesnake Crotalus simus and the South American Crotalus durissus complex points to neurotoxicity as an adaptive paedomorphic trend along Crotalus dispersal in South America.
+SOAPdenovo2: an empirically improved memory-efficient short-read de novo assembler.
+Social immunity of the family: parental contributions to a public good modulated by brood size.
+Social organization in a flatworm: trematode parasites form soldier and reproductive castes.
+Society of Systematic Biologists Numerical Phenetics and Taxonomic Theory
+Some Demographic and Genetic Consequences of Environmental Heterogeneity for Biological Control
+Some genetic consequences of ice ages, and their role in divergence and speciation
+Some genetic consequences of ice ages, and their role, in divergence and speciation
+Some probabilistic and statistical problems in the analysis of DNA sequences.
+Sorting duplicated loci disentangles complexities of polyploid genomes masked by genotyping by sequencing.
+Sound pressure levels and radiation patterns of the vocalizations of some North American frogs and toads
+Sources and sinks in population biology.
+Source-sink population dynamics and the problems of siting marine reserves
+Sparse Discriminant Analysis
+Spatial variation in the magnitude and functional form of density-dependent processes on the large skipper butterflyOchlodes sylvanus
+Spatiotemporal diversification of the true frogs (genus rana): A historical framework for a widely studied group of model organisms.
+Speciation
+Speciation and systematics.
+Speciation as a sieve for ancestral polymorphism.
+Speciation as a stage in evolutionary divergence
+Speciation by Polyploidy in Treefrogs: Multiple Origins of the Tetraploid, Hyla versicolor
+Speciation durations and Pleistocene effects on vertebrate phylogeography.
+Speciation dynamics during the global radiation of extant bats.
+Speciation genes in plants.
+Speciation in chorus frogs. I. reproductive character displacement in the pseudacris nigrita complex
+Speciation reversal and biodiversity dynamics with hybridization in changing environments.
+Speciation through the lens of biomechanics: locomotion, prey capture and reproductive isolation.
+Speciation with introgression: Phylogeography and systematics of the Ameerega petersi group (Dendrobatidae).
+Speciation, hybrid zones and phylogeography - or seeing genes in space and time.
+Speciation, Species Boundaries and Phylogeography of Amphibians
+Species collapse via hybridization in Darwin's tree finches.
+Species delimitation with ABC and other coalescent-based methods: a test of accuracy with simulations and an empirical example with lizards of the Liolaemus darwinii complex (Squamata: Liolaemidae).
+Species interactions and plant polyploidy.
+Species limits and phylogeography of North American cricket frogs (Acris: Hylidae).
+Species recognition in the Hyla versicolor complex.
+Species-Level Phylogeny and Polyploid Relationships in Hordeum (Poaceae) Inferred by Next-Generation Sequencing and In Silico Cloning of Multiple Nuclear Loci.
+Spreading Winge and flying high: The evolutionary importance of polyploidy after a century of study.
+Statistical tests of models of DNA substitution.
+Statistics and truth in phylogenomics.
+Stochastic and epigenetic changes of gene expression in Arabidopsis polyploids.
+Stratigraphic record of the early mesozoic breakup of pangea in the laurasia-gondwana rift system
+Stratigraphy and correlation of glacial deposits from Indiana to New York and New Jersey
+Strength of Evidence for Density Dependence in Abundance Time Series of 1198 Species Published by : Ecological Society of America content in a trusted digital archive . We use information technology and tools to increase productivity and facilitate new fo
+Strong reinforcing selection in a Texas wildflower.
+Strong responses from weakly interacting species.
+STRUCTURE HARVESTER: a website and program for visualizing STRUCTURE output and implementing the Evanno method
+Studies during the past decade, utilizing new chrono-
+Studies of hyperthyroidism : iii. bile pigment production and erythrocyte destruction in thyroid-treated amphibian larvae.
+Studies on hybrid sterility. II. localization of sterility factors in drosophila pseudoobscura hybrids.
+Studies on Polyploidy in Japanese Treefrogs
+Studies on the amphibian digestive system. III. The origin and development of pancreatic islands in certain species of anura
+Subfunctionalization of duplicated genes as a transition state to neofunctionalization.
+Subgenome assignment in allopolyploids: challenges and future directions.
+Subunit control of Rubisco biosynthesis   a relic of an endosymbiotic past?
+Suggested Running Head: TREEFROG CALL PHENOLOGY & STRUCTURE 4
+Supergenes and their role in evolution.
+Supervised machine learning for population genetics: A new paradigm.
+Supervised machine learning reveals introgressed loci in the genomes of Drosophila simulans and D. sechellia.
+Supplementary information in published manuscripts.
+SURFACE: detecting convergent evolution from comparative data by fitting Ornstein-Uhlenbeck models with stepwise Akaike Information Criterion
+Surviving the ice: Northern refugia and postglacial colonization.
+Swofford et al 1996 Phylogenetic Inference chapt 11 searches.pdf
+Sympatric Speciation
+Sympatric speciation in the genomic era.
+Systematic review of the frog family hylidae, with special reference to hylinae: phylogenetic analysis and taxonomic revision
+Systematics and the origin of species, from the viewpoint of a zoologist
+Targeted Sampling and Target Capture: Assessing Phylogeographic Concordance with Genome-wide Data.
+Taxonomic bias in reintroduction projects
+Taxonomic chauvinism
+Tempature Coupling in the Vocal Communication System of the Gray Tree Frog, Hyla versicolor
+Temperate hardwood forests.
+Temperature coupling in cricket acoustic communication. II. Localization of temperature effects on song production and recognition networks in Gryllus firmus.
+Temperature Coupling in the Vocal Communication System of the Gray Tree Frog, Hyla versicolor.
+Temperature-dependence of auditory nerve response properties in the frog.
+Temporal variation in the carrying capacity of a perennial grass population.
+Testing for phylogenetic signal in comparative data: behavioral traits are more labile.
+Testing Pleistocene refugia theory: phylogeographical analysis of Desmognathus wrighti, a high-elevation salamander in the southern Appalachians.
+Tests of pleistocene speciation in montane grasshoppers (genus Melanoplus) from the sky islands of western North America.
+The (mis)measure of a man: martin  jack  J. fouquette, jr., 1930 2014
+The adaptive significance of maternal effects.
+The advantages and disadvantages of being polyploid.
+The allometry of reproduction: an empirical view in salamanders
+The Amphibians of Ohio. Part 1. The Frogs and Toads.
+The analysis of polyploid genetic data.
+The anatomy of a climatic oscillation: vegetation change in eastern North America during the Younger Dryas chronozone
+The Anderson tree frog. Observations on its habits and life history.
+The Atlantic salmon genome provides insights into rediploidization.
+The Batrachia of North America
+The biogeography of deep time phylogenetic reticulation.
+The biogeography of mitochondrial and nuclear discordance in animals.
+The Biological Homology Concept
+The Bottleneck Effect and Genetic Variability in Populations
+The Brassica oleracea genome reveals the asymmetrical evolution of polyploid genomes.
+The breeding systems of diploid and neoautotetraploid clones of Acacia mangium Willd. in a synthetic sympatric population in Vietnam.
+The causes and consequences of subgenome dominance in hybrids and recent polyploids.
+The combined effects of rivers and refugia generate extreme cryptic fragmentation within the common ground skink (scincella lateralis).
+The comparative genomics and complex population history of Papio baboons
+The Compleat cladist: A primer of phylogenetic procedures
+The complex and dynamic genomes of industrial yeasts.
+The complex history of genome duplication and hybridization in North American gray treefrogs
+The computer program STRUCTURE does not reliably identify the main genetic clusters within species: simulations and implications for human population structure.
+The cost of reinforcement: selection on flower color in allopatric populations of Phlox drummondii.
+The cytonuclear dimension of allopolyploid evolution: an example from cotton using rubisco.
+The cytoplasmic factor in plant speciation.
+The de novo assembly of mitochondrial genomes of the extinct passenger pigeon (Ectopistes migratorius) with next generation sequencing.
+The Deep Origin and Recent Loss of Venom Toxin Genes in Rattlesnakes.
+The dynamics of hybrid zones
+The dynamics of hybrid zones between tick (Acari) species.
+The early wisconsinan history of the laurentide ice sheet
+The ecological and genomic basis of explosive adaptive radiation.
+The ecological dynamics of natural selection: traits and the coevolution of community structure.
+The ecology and evolutionary dynamics of meiotic drive.
+The ecology of individuals: incidence and implications of individual specialization.
+The effect of migration on local adaptation in a coevolving host-parasite system.
+The effect of social interactions on calling energetics in the gray treefrog (Hyla versicolor)
+The effect of Wolbachia versus genetic incompatibilities on reinforcement and speciation.
+The effects of acidity on the development and hatching of new jersey frogs
+The effects of inheritance in tetraploids on genetic diversity and population divergence.
+The evolution of a high copy gene array in Arabidopsis.
+The evolution of developmental plasticity in reproductive characteristics: an application of the" adaptive coin-flipping" principle
+The Evolution of Dispersal in Spatially and Temporally Varying Environments
+The evolution of duplicate gene expression in mammalian organs.
+The evolution of female mating preferences: differentiation from species with promiscuous males can promote speciation.
+The evolution of gametic compatibility and compatibility groups in the sea urchin Mesocentrotus franciscanus: An avenue for speciation in the sea.
+The evolution of gene duplications: classifying and distinguishing between models.
+The evolution of haploid chromosome numbers in the sunflower family.
+The evolution of self-compatible and self-incompatible populations in a hermaphroditic perennial, Trillium camschatcense (Melanthiaceae).
+The evolution of self-fertilization in perennials.
+The evolution of the genome
+The evolutionary fate and consequences of duplicate genes.
+The evolutionary implications of epigenetic inheritance.
+The evolutionary legacy of diversification predicts ecosystem function.
+The Evolutionary Relationship between Alternative Splicing and Gene Duplication.
+The evolutionary significance of polyploidy
+The evolving theory of evolutionary radiations.
+The fate of Arabidopsis thaliana homeologous CNSs and their motifs in the Paleohexaploid Brassica rapa.
+The fate of duplicated genes in a polyploid plant genome.
+The frailty of adaptive hypotheses for the origins of organismal complexity.
+The gain and loss of genes during 600 million years of vertebrate evolution.
+The gene tree delusion.
+The generic differentiation of the swamp treefrogs
+The genes underlying the process of speciation.
+The genetic basis of altitudinal variation in the wood frog Rana sylvatica. I. An experimental analysis of life history traits
+The genetic basis of parental care evolution in monogamous mice.
+The genetic effective size of a metapopulation
+The genetics of speciation by reinforcement.
+The genome sequence of allopolyploid Brassica juncea and analysis of differential homoeolog gene expression influencing selection.
+The genomic impact of historical hybridization with massive mitochondrial DNA introgression.
+The genomics of speciation-with-gene-flow.
+The geographical distribution of batrachia and reptilia in north america (continued)
+The global biogeography of polyploid plants.
+The grapevine genome sequence suggests ancestral hexaploidization in major angiosperm phyla.
+The Impact of Open Pollination on the Structural Evolutionary Dynamics, Meiotic Behavior and Fertility of Resynthesized Allotetraploid Brassica napus L.
+The impact of rapid evolution on population dynamics in the wild: experimental test of eco-evolutionary dynamics.
+The incomplete natural history of mitochondria.
+The inference of gene trees with species trees.
+The influence of context-dependent maternal effects on population dynamics: an experimental test.
+The interplay of demography and selection during maize domestication and expansion.
+The Last Interglacial-Glacial Transition in North America
+The lasting effects of adaptive plasticity: predator-induced tadpoles become long-legged frogs
+The latitudinal gradient of species-area relationships for vascular plants of North America.
+The limited contribution of reciprocal gene loss to increased speciation rates following whole-genome duplication.
+The locus of sexual selection: moving sexual selection studies into the post-genomics era.
+The macroecology of population dynamics: taxonomic and biogeographic patterns of population cycles
+The mathematics of science's broken reward system.
+The mating call and its significance in the Colorado River toad (Bufo alvarius Girard)
+The nature of nurture: Effects of parental genotypes.
+The neutral theory in light of natural selection.
+The New Genetic Inheritance: Mechanisms of Inheritance That Mendel Would Not Have Predicted With Sweet Peas.
+The NUMBRS approach to nursing management.
+The numerical abilities of anurans and their neural correlates: insights from neuroethological studies of acoustic communication.
+The on-again, off-again relationship between mitochondrial genomes and species boundaries.
+The origin and evolution of clones versus the maintenance of sex in poeciliopsis
+The Origin of Species; And, the Descent of Man
+The pleistocene amphibians of pit II, arredondo, florida
+The polymorphic prelude to Bateson-Dobzhansky-Muller incompatibilities.
+The polyploidy revolution then& and now: Stebbins revisited.
+The potential role of androgenesis in cytoplasmic-nuclear phylogenetic discordance.
+The power and promise of RNA-seq in ecology and evolution.
+The probability distribution of ranked gene trees on a species tree.
+The probability of duplicate gene preservation by subfunctionalization.
+The Quaternary glaciation of western New England with correlations to
+The quaternary of the United States: a review volume for the VII congress of the International Association for Quaternary Research
+The quaternary period in the united states
+The rainbow trout genome provides novel insights into evolution after whole-genome duplication in vertebrates.
+The Relation between Density Regulation and Natural Selection
+The relationship among egg size, density and food level on larval development in the wood frog (Rana sylvatica)
+The relationship among gene expression, the evolution of gene dosage, and the rate of protein evolution.
+The role of genetic and genomic attributes in the success of polyploids.
+The role of hybridization in evolution.
+The role of hybridization in plant speciation.
+The role of mitochondrial introgression in illuminating the evolutionary history of Nearctic treefrogs
+The Role of Polyploidy in the Evolution of Gender Dimorphism: An Experimental Approach using Fragaria vesca
+The role of reinforcement in speciation: theory and data
+The role of transgenerational epigenetic inheritance in diversification and speciation
+The role of triploid hybrids in the evolutionary dynamics of mixed-ploidy populations
+The rôle of voice and coloration in spring migration and sex recognition in frogs
+The selfish gene
+The significance of allozyme variation and introgression in the L iriodendron tulipifera complex (Magnoliaceae)
+The significance of responses of the genome to challenge.
+The state of software for evolutionary biology.
+The Status of Hyla phaeocrypta with Notes on Its Variation
+The strength of indirect selection on female mating preferences.
+The Tetraploid Treefrog Hyla versicolor: Evidence for a Single Origin from the Diploid H. chrysoscelis
+The Texan subspecies of the treefrog, Hyla versicolor.
+The theory of island biogeography
+The timing of human adaptation from Neanderthal introgression
+The venom-gland transcriptome of the eastern diamondback rattlesnake (Crotalus adamanteus)
+The venom-gland transcriptome of the eastern diamondback rattlesnake (Crotalus adamanteus)
+The venom-gland transcriptome of the eastern diamondback rattlesnake (Crotalus adamanteus).
+The vocalizations of some hybrid treefrogs: acoustic and behavioral analyses
+The voice of Hyla versicolor in Virginia.
+The Weathered Zone (Sangamon) between the Iowan Loess and Illinoian till Sheet
+The wondrous cycles of polyploidy in plants.
+Theory and speciation.
+Thermal Physiology, Phenology, and Distribution of Tree Frogs
+Three Salientia of Geographic Interest from Southern Maryland
+Time computations in anuran auditory systems.
+Time for acquiring a new gene by duplication.
+Timeframe of speciation inferred from secondary contact zones in the European tree frog radiation (Hyla arborea group).
+Timing the eastern Asian-eastern North American floristic disjunction: molecular clock corroborates paleontological estimates.
+Tipping the scales: the migration-selection balance leans toward selection in snake venoms.
+Tissue-specific silencing of homoeologs in natural populations of the recent allopolyploid Tragopogon mirus.
+Tissue-Specificity of Gene Expression Diverges Slowly between Orthologs, and Rapidly between Paralogs.
+To include or not to include: the impact of gene filtering on species tree estimation methods.
+Torsion of the pregnant uterus with a change in placental localization on ultrasound; a case report.
+Toward a periodic table of niches, or exploring the lizard niche hypervolume.
+Tracing the peopling of the world through genomics.
+Tracking dragons: stable isotopes reveal the annual cycle of a long-distance migratory insect
+Tracking the evolutionary history of polyploidy in Fragaria L. (strawberry): new insights from phylogenetic analyses of low-copy nuclear genes.
+Transcriptional analysis of nucleolar dominance in polyploid plants: Biased expression
+Transcriptome shock invokes disruption of parental expression-conserved genes in tetraploid wheat.
+Transcriptomic analysis reveals differential gene expressions for cell growth and functional secondary metabolites in induced autotetraploid of Chinese woad (Isatis indigotica Fort.).
+Transgenerational induction of defences in animals and plants.
+Transverse alpine speciation driven by glaciation.
+Tread Lightly Interpreting Polygenic Tests of Selection
+Triploide Froschlarven
+Triploide Froschlarven
+Triploidy permits survival of an inviable amphibian hybrid
+Trophic polymorphism in a terrestrial salamander
+Two evolutionarily distinct classes of paleopolyploidy.
+Two-phase resolution of polyploidy in the Arabidopsis metabolic network gives rise to relative and absolute dosage constraints.
+Understanding and manipulating meiotic recombination in plants.
+Understanding mechanisms of novel gene expression in polyploids.
+Understanding the effect of uncertainty on the development of neophobic antipredator phenotypes
+Unforeseen Consequences of Excluding Missing Data from Next-Generation Sequences: Simulation Study of RAD Sequences.
+Unidirectional diploid-tetraploid introgression among British birch trees with shifting ranges shown by restriction site-associated markers.
+Unified framework to evaluate panmixia and migration direction among multiple sampling locations.
+Unified modeling of gene duplication, loss, and coalescence using a locus tree.
+Unifying Within- and Between-Generation Bet-Hedging Theories: An Ode to J. H. Gillespie.
+University of Chicago. Chicago. Illinois
+Use of food and spatial resources by two frogs of the genus Dendropsophus (anura: Hylidae) from la selva, costa rica
+Use of non-arbitrary acoustic criteria in mate choice by female gray tree frogs
+Using Networks to Connect Individual-Level Reproductive Behavior to Population Patterns.
+Utility of RNA Sequencing for Analysis of Maize Reproductive Transcriptomes
+Variation in flowering phenology and selfing rate across a contact zone between diploid and tetraploid Arrhenatherum elatius (Poaceae)
+Variation in Growth and Survival of Hyla gratiosa Larvae in Experimental Enclosures
+Variation in Propagule Size as a Function of Environmental Uncertainty for Tree Frogs
+Variation in the song of the chaffinch fringilla coelebs.
+Variation, isolating mechanisms, and hybridization in certain toads.
+Vegetation and environment in EasternNorth America during the Last Glacial Maximum
+Velvet: algorithms for de novo short read assembly using de Bruijn graphs.
+version of this article at: including high-resolution figures, can be found in the online
+Visualizing spatial population structure with estimated effective migration surfaces.
+Vocalizations and behavior of the males of three species in the Hyla versicolor complex.
+Water permeability and lipid content of amphibian skin.
+Weak Altruism, Strong Group Selection
+What do predators really want? The role of gerbil energetic state in determining prey choice by Barn Owls.
+What we still don t know about polyploidy
+What, if anything, are hybrids: enduring truths and challenges associated with population structure and gene flow.
+When gene flow really matters: gene flow in applied evolutionary biology.
+Where am I and why? Synthesizing range biology and the eco-evolutionary dynamics of dispersal
+Whole genome duplication affects evolvability of flowering time in an autotetraploid plant.
+Whole genome duplication does not promote common modes of reproductive isolation in Trifolium pratense.
+Whole genome duplication in coast redwood (Sequoia sempervirens) and its implications for explaining the rarity of polyploidy in conifers.
+Whole-genome sequence analysis shows that two endemic species of North American wolf are admixtures of the coyote and gray wolf
+Why are tropical mountain passes 'low' for some species? Genetic and stable-isotope tests for differentiation, migration, and expansion in elevational generalist songbirds.
+Why concatenation fails near the anomaly zone.
+Why structure matters.
+Widespread ancient whole-genome duplications in Malpighiales coincide with Eocene global climatic upheaval.
+William Booker Research Proposal Diversification and Parallel Evolution of Reproductive Behaviors in Tropical Treefrogs Keywords: Parallel evolution, Character displacement,
+www.faculty.biol.ttu.edu/strauss/phylogenetics/Readings/KnowlesMaddison2002.pdf
+www.mapress.com.sci-hub.cc/j/zt/article/view/zootaxa.4104.1.1
+www.scielo.br/pdf/bn/v9n4/v9n4a20.pdf
+You cannot have it all: Heritability and constraints of predator-induced developmental plasticity in a Neotropical treefrog.
+
+
