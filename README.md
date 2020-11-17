@@ -16,8 +16,8 @@ The following summary statistics are calculated (modified from https://github.co
 | __sx B__                |  number of exclusively polymorphic positions in species B / locus length    |
 | __ss AB__               |  number of shared biallelic positions between species A and B/ locus length |
 | __successive ss__       |  maximum number of successive shared biallelic positions for a locus |
-| __pi A__                |  Tajima’s Theta within species A                                            |
-| __pi B__                |  Tajima’s Theta within species B                                            |
+| __pi A__                |  Tajima’s Pi within species A                                            |
+| __pi B__                |  Tajima’s Pi within species B                                            |
 | __theta A__             |  Watterson’s Theta within species A                                          |
 | __theta B__             |  Watterson’s Theta within species A                                          |
 | __pearson_r_pi_AB__    |  correlation’s coefficient for pi over orthologs between A and B            |
