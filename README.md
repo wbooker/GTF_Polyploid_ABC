@@ -1,6 +1,8 @@
 # ABC analysis of polyploid specation, chromosomal inheritance, and evolutionary histories 
 Polyploidization and inheritance mode model estimation using Approximate Bayesian Computation. Developed for studying speciation in the North American gray treefrog complex *Hyla chrysoscelis/versicolor*
 
+If used please cite the following work: https://academic.oup.com/mbe/article/39/2/msab316/6427635
+
 This repository contains scripts and information on how to run an ABC analysis to estimate the mode of polyploid formation and the pattern of chromosomal inheritance using sequence data. As of now, this analysis only works for tetraploids. 
 
 This analysis was modified from methods outlined in Roux and Pannel (2015)[1] and Leroy et al. (2017)[2]. This readme is also modified from examples laid out in their repositories: https://github.com/popgenomics/ABC_WGD, https://github.com/ThibaultLeroyFr/WhiteOaksABC
